@@ -1,36 +1,81 @@
 ---
 title: "**Exploring Gloger’s eco-geographic rule**"
+subtitle: "Why organisms are darker in wetter & warmer environments"
 output:
   pdf_document:
     latex_engine: xelatex
-    fig_caption: true
 fontsize: 11pt
-geometry: margin = 0.5in, a4paper
+geometry: margin = 0.5in, a4paper1
 mainfont: Calibri
 csl: harvard-university-of-cape-town-rvm_2017-04-20.csl
-#bibliography: ~/Documents/Bibliographies/Spp_speciation_deliverable.bib
-header-includes:
-  - \usepackage{hanging}
-  - \usepackage{lipsum}
-  - \setlength{\parindent}{15pt}
-  - \setlength{\parskip}{0pt}
-  - \renewcommand{\baselinestretch}{1}
-  - \setlength{\columnsep}{30pt}
-  - \twocolumn
+bibliography: ~/Documents/Bibliographies/Hons_theory_essay.bib
 ---
-Initial essay formatting
+
+\usepackage{hanging}
+\usepackage{lipsum}
+\setlength{\parindent}{15pt}
+\setlength{\parskip}{0pt}
+\renewcommand{\baselinestretch}{1}
+\setlength{\columnsep}{30pt}
+
+\twocolumn
+
 \par \noindent \textbf{R. van Mazijk}
 \footnotesize
 \par \noindent `r format(Sys.time(), "%Y-%m-%d")`
 \par \noindent <VMZRUA001@myuct.ac.za>
 \par \noindent BSc Hons Biological Sciences
 \par \noindent Critical theory essay
+\par \noindent For Arjun Amar & Petra Sumasgutner
 \par \noindent \hrulefill
+
+\smallsize
+
+<!--Ya tell 'em what you're gonna tell 'em,-->
+- Eco-geographic and biogeographic rules
+- Theory vs empiricism of "rules"
+- Gloger's rule
+- Manifestations of Gloger's rules
+- Some intro stuff
+- "Herein, I argue that there is <!--in-->sufficient evidence to support Gloger's rule as a useful and true generalisation [...]"
+
+
 \normalsize
+<!--Then ya tell 'em,-->
 
-# Introduction
 
-\lipsum
+# Origins of the rule
+
+<!--Where does this idea come from? What's the logic?-->
+- Gloger's observations
+- His contemporaries' thoughts
+- Theoretical reasoning behind the rule
+
+
+# Evidence & examples
+
+<!--Is the rule founded in empirical observation? How ubiquitous is it?-->
+- ...
+- Does the pattern exist? Is it observed in the first place?
+- Dissect the observations at the intrasp., intersp., and assemblage levels
+- Animal vs plant e.g. -> differences in meaning and interpretation
+
+
+# Mechanisms behind the pattern
+
+<!--What could be causing this pattern, and why? Does it depend on the organism?-->
+- ...
+- Connect evidence above to mechanisms described in their respective papers (if applicable)
+- & mechanisms from other papers concerning pigment and environment (e.g. Tate et al. 2016)
+- Dissect the observations at the intrasp., intersp., and assemblage levels MECHANISTICALLY
+- Animal vs plant e.g. -> differences in meaning and interpretation for MECHANISM
+
+
+# Concluding remarks
+
+<!--And then ya ell 'em what ya told 'em-->
+- ...
+
 
 \noindent \hrulefill
 
