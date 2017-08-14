@@ -19,10 +19,8 @@ header-includes:
   - \twocolumn
 ---
 
-\par \noindent \textbf{R. van Mazijk}
-\footnotesize
+\par \noindent \textbf{R. van Mazijk} \footnotesize <VMZRUA001@myuct.ac.za>
 \par \noindent `r format(Sys.time(), "%Y-%m-%d")`
-\par \noindent <VMZRUA001@myuct.ac.za>
 \par \noindent BSc Hons Biological Sciences
 \par \noindent Critical theory essay
 \par \noindent For Arjun Amar & Petra Sumasgutner
@@ -32,6 +30,8 @@ header-includes:
 
 \normalsize
 
+<!--
+
 # Topic brief
 
 - Gloger’s eco-geographic rule states that animals should be darker in more humid or wetter environments (Gloger 1833). Evidence has recently been presented that it also applies to plants (Koski & Ashman, 2015). In this essay, I would like to you discuss the origin of this eco-geographic rule, the empirical support for this rule and the likely mechanisms that are proposed to explain it (e.g. Burtt & Ichida, 2004; Tate et al. 2016).
@@ -39,8 +39,6 @@ header-includes:
 - Submit via TurnItIn
 
 # Starter readings
-
-# References
 
 [ ] Gloger, C. L. Das Abändern der Vögel durch Einfluss der Klima's. (A. Schulz, 1833).
 
@@ -52,22 +50,15 @@ header-includes:
 
 ("[√]" = Got PDF)
 
-
-# Notes
-
-- Gloger noted bird plumage darkness ~ warmth, humidity (Miksch; Burtt & Ichida 2004)
-- Burtt & Ichida -> dark pulamge resistant to bacterial degradation (~ pgiments), a common problem in humid climes; mthods: measure intrasp. ∆colour vs bacterial activity
-- cf Koski & Ashman -> UV role (in plants)
-- Persistent colour polymorphism (Tate et al. 2016) within a populations of a species -> equivalent fitness of the morphs in heterogeneous habitats; results: darker species forage/hunt better in darker habitats (~ hiding in the ambient background). Since (Ruan says) darker habs are wetter (ish), this relates to Gloger's rule.
-- Intrasp. Gloger's rule manifestations vs intersp./community level manifestations (Lev-Yadun 2015)
-- Gloger vs anti-Gloger patterns (Lev-Yadun 2015)
-- Biological/biogeographic "rules": Lomolino et al. 2006; Gaston et al. 2008 (has a def for Gloger's rule too) (also d/d's betw intrasp. traits, intersp. traits, and assemblage patterns (in community properties or community trait avgs))
+-->
 
 <!--First ya tell 'em what you're gonna tell 'em,-->
 - Eco-geographic and biogeographic rules
+    - Biological/biogeographic "rules": Lomolino et al. 2006; Gaston et al. 2008 (has a def for Gloger's rule too) (also d/d's betw intrasp. traits, intersp. traits, and assemblage patterns (in community properties or community trait avgs))
 - Theory vs empiricism of "rules"
 - Gloger's rule
 - Manifestations of Gloger's rules
+    - Intrasp. Gloger's rule manifestations vs intersp./community level manifestations (Lev-Yadun 2015)
 - Some intro stuff
 - "Herein, I argue that there is sufficient<!--/insufficient--> evidence to support Gloger's rule as a useful and true generalisation [...]"
 
@@ -78,6 +69,7 @@ header-includes:
 
 <!--Where does this idea come from? What's the logic?-->
 - Gloger's observations
+    - Gloger noted bird plumage darkness ~ warmth, humidity (Miksch; Burtt & Ichida 2004)
 - His contemporaries' thoughts
 - Theoretical reasoning behind the rule
 
@@ -86,6 +78,7 @@ header-includes:
 
 <!--Is the rule founded in empirical observation? How ubiquitous is it?-->
 - ...
+- Gloger vs anti-Gloger patterns (Lev-Yadun 2015)
 - Does the pattern exist? Is it observed in the first place?
 - Dissect the observations at the intrasp., intersp., and assemblage levels
 - Animal vs plant e.g. -> differences in meaning and interpretation
@@ -95,6 +88,9 @@ header-includes:
 
 <!--What could be causing this pattern, and why? Does it depend on the organism?-->
 - ...
+- Burtt & Ichida -> dark pulamge resistant to bacterial degradation (~ pgiments), a common problem in humid climes; mthods: measure intrasp. ∆colour vs bacterial activity
+    - cf Koski & Ashman -> UV role (in plants)
+- Persistent colour polymorphism (Tate et al. 2016) within a populations of a species -> equivalent fitness of the morphs in heterogeneous habitats; results: darker species forage/hunt better in darker habitats (~ hiding in the ambient background). Since (Ruan says) darker habs are wetter (ish), this relates to Gloger's rule.
 - Connect evidence above to mechanisms described in their respective papers (if applicable)
 - & mechanisms from other papers concerning pigment and environment (e.g. Tate et al. 2016)
 - Dissect the observations at the intrasp., intersp., and assemblage levels MECHANISTICALLY
