@@ -26,16 +26,10 @@ Submit via TurnItIn
 
 # My notes
 
-Gloger noted bird plumage darkness ~ warmth, humidity (Miksch; Burtt & Ichida 2004)
-
-Burtt & Ichida -> dark pulamge resistant to bacterial degradation (~ pgiments), a common problem in humid climes; mthods: measure intrasp. ∆colour vs bacterial activity
-
-cf Koski & Ashman -> UV role (in plants)
-
-Persistent colour polymorphism (Tate et al. 2016) within a populations of a species -> equivalent fitness of the morphs in heterogeneous habitats; results: darker species forage/hunt better in darker habitats (~ hiding in the ambient background). Since (Ruan says) darker habs are wetter (ish), this relates to Gloger's rule.
-
-Intrasp. Gloger's rule manifestations vs intersp./community level manifestations (Lev-Yadun 2015)
-
-Gloger vs anti-Gloger patterns (Lev-Yadun 2015)
-
-Biological/biogeographic "rules": Lomolino et al. 2006; Gaston et al. 2008 (has a def for Gloger's rule too) (also d/d's betw intrasp. traits, intersp. traits, and assemblage patterns (in community properties or community trait avgs));
+- Gloger noted bird plumage darkness ~ warmth, humidity (Miksch; Burtt & Ichida 2004)
+- Burtt & Ichida -> dark pulamge resistant to bacterial degradation (~ pgiments), a common problem in humid climes; mthods: measure intrasp. ∆colour vs bacterial activity
+- cf Koski & Ashman -> UV role (in plants)
+- Persistent colour polymorphism (Tate et al. 2016) within a populations of a species -> equivalent fitness of the morphs in heterogeneous habitats; results: darker species forage/hunt better in darker habitats (~ hiding in the ambient background). Since (Ruan says) darker habs are wetter (ish), this relates to Gloger's rule.
+- Intrasp. Gloger's rule manifestations vs intersp./community level manifestations (Lev-Yadun 2015)
+- Gloger vs anti-Gloger patterns (Lev-Yadun 2015)
+- Biological/biogeographic "rules": Lomolino et al. 2006; Gaston et al. 2008 (has a def for Gloger's rule too) (also d/d's betw intrasp. traits, intersp. traits, and assemblage patterns (in community properties or community trait avgs));
