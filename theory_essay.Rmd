@@ -21,17 +21,17 @@ header-includes:
 
 \par \noindent \textbf{R. van Mazijk}
 \par \noindent <VMZRUA001@myuct.ac.za>
+\par \hfill
 \footnotesize
 \par \noindent `r format(Sys.time(), "%Y-%m-%d")`
 \par \noindent BSc Hons Biological Sciences
 \par \noindent Critical theory essay
 \par \noindent For Dr A. Amar & Dr P. Sumasgutner
-\par \noindent \hrulefill
 \par \hfill
+\par \noindent \hrulefill
 
 \normalsize
 
-\lipsum
 
 <!--
 
@@ -60,24 +60,29 @@ header-includes:
 
 ## Ecogeographic and biogeographic "rules"
 
-@Lomolino2006 outline the study of observed patterns or trends of organismal traits across geographical space. These ecogeographic "rules" (i.e. observations<!--elaborate on the nature of "rules"-->) highlight examples of pattern at broad ecological scales as consequence of processes at a range of scales. Indeed, the patterns themselves are also manifest at a variety of scales
+@Lomolino2006 outline the study of observed patterns or trends of organismal traits across geographical space. These ecogeographic "rules" (i.e. observations<!--elaborate on the nature of "rules"-->) highlight examples of pattern at broad ecological scales as consequence of processes at a range of scales. Indeed, the patterns themselves are also manifest at a variety of scales<!--(namely ontogenetic, intraspecific, interspecific, and assemblage)-->. As such, @Lomolino2006 says, underlying causal mechanisms behind these patterns are difficult to ascertain.
+
+@Lomolino2006 also talk about theory vs empirical evidence, and varying scales, and also the evolutionary side to *eco*geographic rules.
 
 @Gaston2008 (has a def for Gloger's rule too) (also d/d's betw intrasp. traits, intersp. traits, and assemblage patterns (e.g. Bishop2016 on ants) (in community properties or community trait avgs))
 
+@Millien2006 discuss ecotypic (i.e. intraspecific, i.e. between populations) variation in terms of ecogeographic rules, too.
+
+@Olalla2011 discusses approaches to studying rules too, with focus on Bergmann's rule<!--ref?-->. @Olalla2011 advocates a *pluralist* approach, wherein the manifestations of ecogeographical rules at multiple scales and levels of biological organisation are considered. He also outlines that "laws" and "rules" in ecology, and in science generally, need not *always* contain mechanistic statements, need not be without exception, as they are "correlative generalisations". Though, mechanistic understandings of the processes that generate these law-defining patterns is desirable, and indeed often the aim of research, this does not imply that correlative ecogeographic rules are not useful intrinsically. Not least, these rules are often the starting point of research. Thus, these rules represent interesting observed patterns that can motivate research, *and* useful generalisations that can be employed in other work.
 
 Ontogenetic level too! (Booth, C.L. 1990)
 
 - Theory vs empiricism of "rules"
 - Gloger's rule
 - Manifestations of Gloger's rules
-    - Intrasp. Gloger's rule manifestations vs intersp./community level manifestations (Lev-Yadun 2015)
+    - Intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) svs intersp./community level manifestations (Lev-Yadun 2015)
 - Some intro stuff
 - "Herein, I argue that there is sufficient<!--/insufficient--> evidence to support Gloger's rule as a useful and true generalisation [...]"
 
 
 <!--Then ya tell 'em,-->
 
-# Origins of the rule
+## Origins of the rule
 
 <!--Where does this idea come from? What's the logic?-->
 - Gloger's observations
@@ -86,7 +91,7 @@ Ontogenetic level too! (Booth, C.L. 1990)
 - Theoretical reasoning behind the rule
 
 
-# Evidence & examples
+## Evidence & examples
 
 <!--Is the rule founded in empirical observation? How ubiquitous is it?-->
 - ...
@@ -117,7 +122,7 @@ Ontogenetic level too! (Booth, C.L. 1990)
         - could THIS connect to an environmental pattern in plant colour?
 
 
-# Mechanisms behind the pattern
+## Mechanisms behind the pattern
 
 <!--What could be causing this pattern, and why? Does it depend on the organism?-->
 - ...
@@ -130,13 +135,17 @@ Ontogenetic level too! (Booth, C.L. 1990)
 - Animal vs plant e.g. -> differences in meaning and interpretation for MECHANISM
 
 
-# Concluding remarks
+## Concluding remarks
 
 <!--And then ya tell 'em what ya told 'em-->
+
 - ...
 
+@Millien2006 traits vary with geography, but also with global cliamte change!
+
+\hfill
 
 \noindent \hrulefill
 
-# \small References
+## \small References
 \footnotesize \hangparas{15pt}{1}
