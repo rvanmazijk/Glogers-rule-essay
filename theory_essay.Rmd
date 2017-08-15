@@ -1,5 +1,5 @@
 ---
-title: "**Exploring Gloger’s ecogeographic rule**"
+title: "Exploring Gloger’s ecogeographic rule"
 subtitle: "Why organisms are darker in wetter & warmer environments"
 output:
   pdf_document:
@@ -8,7 +8,7 @@ output:
 fontsize: 11pt
 geometry: margin = 0.5in, a4paper
 mainfont: Calibri
-csl: harvard-university-of-cape-town-rvm_2017-04-20.csl
+csl: harvard-university-of-cape-town-rvm_2017-08-15.csl  # version w/o comma in in-text citations
 bibliography: ~/Documents/Bibliographies/Hons_theory_essay.bib
 header-includes:
   - \usepackage{lipsum}
@@ -24,7 +24,7 @@ header-includes:
   - \twocolumn
 ---
 
-\begin{wrapfigure}{l}{15pt}  <!--this figure will be at the left-->
+\begin{wrapfigure}{l}{15pt}  % this figure will be at the left
     \par \includegraphics[width=1.25cm, height=1.25cm]{uct logo copy.png}
     \par \includegraphics[width=1.25cm, height=1.25cm]{bio sci logo crop.png}
 \end{wrapfigure}
@@ -41,6 +41,8 @@ header-includes:
 
 \par \noindent \hrulefill
 
+\par \hfill
+
 \normalsize
 
 <!--
@@ -53,7 +55,7 @@ header-includes:
 
 # Starter readings
 
-[ ] Gloger, C. L. Das Abändern der Vögel durch Einfluss der Klima's. (A. Schulz, 1833).
+[ ] Gloger, C. L. 1833. Das Abändern der Vögel durch Einfluss der Klima's. Breslau, Germany: A. Schulz
 
 [ ] Koski, M. H., & Ashman, T. L. (2015). Floral pigmentation patterns provide an example of Gloger's rule in plants. Nature Plants, 1, 14007.
 
@@ -68,7 +70,8 @@ header-includes:
 
 <!--First ya tell 'em what you're gonna tell 'em,-->
 
-...
+
+Gloger's rule is an ecogeographic trend wherein organisms possess darker pigmentation in warmer, more humid environments [@Gloger1833; @Bishop2016; @LevYadun2015]. @Gloger1833 first described this in birds 
 
 Some intro stuff, e.g. "Herein, I argue that there is sufficient<!--/insufficient--> evidence to support Gloger's rule as a useful and true generalisation [...]"
 
@@ -89,7 +92,7 @@ Some intro stuff, e.g. "Herein, I argue that there is sufficient<!--/insufficien
 
 Ontogenetic level too! (Booth, C.L. 1990)
 
-## Theory vs empiricism of "rules"
+### Theory vs empiricism of "rules"
 
 
 ## Origins of the rule
@@ -132,7 +135,7 @@ Does the pattern exist? Is it observed in the first place? Dissect the observati
 ```
         |\              
         |  \           /
-pigment |   \         /
+pigment |   \         /      ~[confound] rainfall, sexual selection
         |    \_______/
         |__________________
             temperature
