@@ -9,7 +9,7 @@ fontsize: 11pt
 geometry: margin = 0.5in, a4paper
 mainfont: Calibri
 csl: harvard-university-of-cape-town-rvm_2017-08-15.csl  # version w/o comma in in-text citations
-bibliography: ~/Documents/Bibliographies/Hons_theory_essay.bib
+bibliography: Hons_theory_essay.bib
 header-includes:
   - \usepackage{lipsum}
   # Institutional logos as a wrapping figure
