@@ -211,7 +211,7 @@
       <key macro="author"/>
     </sort>
     <layout prefix="(" suffix=")" delimiter="; ">
-      <group delimiter=", ">
+      <group delimiter=" ">
         <text macro="author-short"/>
         <text macro="date-issued-no-parentheses"/>
       </group>
