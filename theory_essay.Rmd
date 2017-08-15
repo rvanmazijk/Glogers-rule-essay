@@ -79,7 +79,7 @@ Herein, I discuss the treatment of ecogeographic rules in ecological and evoluti
 
 ## Ecogeographic & biogeographic "rules"
 
-Theory vs empiricism of "rules" ...
+### Theory vs empiricism of "rules" ...
 
 @Lomolino2006 outline the study of observed patterns or trends of organismal traits across geographical space. These ecogeographic "rules" (i.e. observations<!--elaborate on the nature of "rules"-->) highlight examples of pattern at broad ecological scales as consequence of processes at a range of scales. Indeed, the patterns themselves are also manifest at a variety of scales<!--(namely ontogenetic, intraspecific, interspecific, and assemblage)-->. As such, @Lomolino2006 says, underlying causal mechanisms behind these patterns are difficult to ascertain.
 
@@ -91,10 +91,16 @@ Theory vs empiricism of "rules" ...
 
 @Olalla2011 discusses approaches to studying rules too, with focus on Bergmann's rule<!--ref?-->. @Olalla2011 advocates a *pluralist* approach, wherein the manifestations of ecogeographical rules at multiple scales and levels of biological organisation are considered. He also outlines that "laws" and "rules" in ecology, and in science generally, need not *always* contain mechanistic statements, need not be without exception, as they are "correlative generalisations". Though, mechanistic understandings of the processes that generate these law-defining patterns is desirable, and indeed often the aim of research, this does not imply that correlative ecogeographic rules are not useful intrinsically. Not least, these rules are often the starting point of research. Thus, these rules represent interesting observed patterns that can motivate research, *and* useful generalisations that can be employed in other work.
 
+### Ecogeographic rules across levels of organisation
+
++ stuff above
+
 Ontogenetic level too! (Booth, C.L. 1990)
 
 
-## Origins of the rule
+## Gloger's rule---evidence & examples
+
+### Origins of the rule
 
 See @Roulin2015 for a good def of the rule in the abstract (e.g. fitness benefits of melanin in warma and environments). @Roulin2015 also compare this to fitness in warm/humid climes is conferred via alternative phenotypic adaptations (owls) (see their results---*it's complicated*)
 
@@ -107,10 +113,9 @@ Intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) svs int
 - Gloger's observations
     - Gloger noted bird plumage darkness ~ warmth, humidity (Miksch; Burtt & Ichida 2004)
 - His contemporaries' thoughts
-- Theoretical reasoning behind the rule
+- Theoretical reasoning behind the rule (if any??)
 
-
-## Evidence & examples
+### Evidence & examples
 
 <!--Is the rule founded in empirical observation? How ubiquitous is it?-->
 
