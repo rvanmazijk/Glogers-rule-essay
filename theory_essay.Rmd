@@ -150,10 +150,10 @@ Does the pattern exist? Is it observed in the first place? Dissect the observati
 
 @Bishop2016 ant *assemblage* work (ECTOTHERMAL):
 
-- organismal darkenss as a modal patter
-- at low temperatures for thermoregulatory need
-- at higher temperatures for UV-B protectio
-- also darkness incr with smaller body siz
+- organismal darkenss as a modal pattern
+- at low temperatures for thermoregulatory needs
+- at higher temperatures for UV-B protection
+- also darkness incr with smaller body size
 - these patterns are evident at the *assemblage* level
 
 ```
@@ -163,8 +163,7 @@ pigment |   \         /
         |    \_______/
         |__________________
             temperature
-            (~^confound rainfall,
-                        sexual selection)
+(confounded w/ rainfall, sexual selection)
 ```
 
 Plants vs endothermic animals vs ectothermic animals; UV-B protection (Gloger's rule) vs thermal hypothesis vs dessication hypothesis [@Pinkert2016]; Plants foliarly [sensu @LevYadun2007] vs florally [sensu @Koski2015]
