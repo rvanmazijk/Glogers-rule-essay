@@ -5,17 +5,18 @@ output:
   pdf_document:
     latex_engine: xelatex
     fig_caption: false
-    fig_height: 1
-    fig_width: 1
 fontsize: 11pt
 geometry: margin = 0.5in, a4paper
 mainfont: Calibri
 csl: harvard-university-of-cape-town-rvm_2017-04-20.csl
 bibliography: ~/Documents/Bibliographies/Hons_theory_essay.bib
 header-includes:
-  - \usepackage{wrapfig}
-  - \usepackage{hanging}
   - \usepackage{lipsum}
+  # Institutional logos as a wrapping figure
+  - \usepackage{wrapfig}
+  # References section hanging indentation
+  - \usepackage{hanging}
+  # Two-column formatting
   - \setlength{\parindent}{15pt}
   - \setlength{\parskip}{0pt}
   - \renewcommand{\baselinestretch}{1}
@@ -23,21 +24,20 @@ header-includes:
   - \twocolumn
 ---
 
-<!--this figure will be at the right-->
-\begin{wrapfigure}{l}{15pt}
-    \includegraphics[width=1.25cm, height=1.25cm]{uct logo copy.png} \par
-    \includegraphics[width=1.25cm, height=1.25cm]{bio sci logo crop.png}
+\begin{wrapfigure}{l}{15pt}  <!--this figure will be at the left-->
+    \par \includegraphics[width=1.25cm, height=1.25cm]{uct logo copy.png}
+    \par \includegraphics[width=1.25cm, height=1.25cm]{bio sci logo crop.png}
 \end{wrapfigure}
 
 \par \noindent \textbf{R. van Mazijk}
 \par \noindent <VMZRUA001@myuct.ac.za>
 \par \hfill
 \footnotesize
-    \par \noindent `r format(Sys.time(), "%Y-%m-%d")`
-    \par \noindent BSc Hons Biological Sciences
-    \par \noindent Critical theory essay
-    \par \noindent For Dr A. Amar & Dr P. Sumasgutner
-    \par \hfill
+\par \noindent `r format(Sys.time(), "%Y-%m-%d")`
+\par \noindent BSc Hons Biological Sciences
+\par \noindent Critical theory essay
+\par \noindent For Dr A. Amar & Dr P. Sumasgutner
+\par \hfill
 
 \par \noindent \hrulefill
 
@@ -68,7 +68,14 @@ header-includes:
 
 <!--First ya tell 'em what you're gonna tell 'em,-->
 
-## Ecogeographic and biogeographic "rules"
+...
+
+Some intro stuff, e.g. "Herein, I argue that there is sufficient<!--/insufficient--> evidence to support Gloger's rule as a useful and true generalisation [...]"
+
+
+<!--Then ya tell 'em,-->
+
+## Ecogeographic & biogeographic "rules"
 
 @Lomolino2006 outline the study of observed patterns or trends of organismal traits across geographical space. These ecogeographic "rules" (i.e. observations<!--elaborate on the nature of "rules"-->) highlight examples of pattern at broad ecological scales as consequence of processes at a range of scales. Indeed, the patterns themselves are also manifest at a variety of scales<!--(namely ontogenetic, intraspecific, interspecific, and assemblage)-->. As such, @Lomolino2006 says, underlying causal mechanisms behind these patterns are difficult to ascertain.
 
@@ -85,7 +92,7 @@ Ontogenetic level too! (Booth, C.L. 1990)
 ## Theory vs empiricism of "rules"
 
 
-##Gloger's rule
+## Origins of the rule
 
 See @Roulin2015 for a good def of the rule in the abstract (e.g. fitness benefits of melanin in warma and environments). @Roulin2015 also compare this to fitness in warm/humid climes is conferred via alternative phenotypic adaptations (owls) (see their results---*it's complicated*)
 
@@ -93,14 +100,9 @@ Manifestations of Gloger's rules
 
 Intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) svs intersp./community level manifestations (Lev-Yadun 2015)
 
-Some intro stuff, e.g. "Herein, I argue that there is sufficient<!--/insufficient--> evidence to support Gloger's rule as a useful and true generalisation [...]"
 
+Where does this idea come from? What's the logic?
 
-<!--Then ya tell 'em,-->
-
-## Origins of the rule
-
-<!--Where does this idea come from? What's the logic?-->
 - Gloger's observations
     - Gloger noted bird plumage darkness ~ warmth, humidity (Miksch; Burtt & Ichida 2004)
 - His contemporaries' thoughts
@@ -110,42 +112,45 @@ Some intro stuff, e.g. "Herein, I argue that there is sufficient<!--/insufficien
 ## Evidence & examples
 
 <!--Is the rule founded in empirical observation? How ubiquitous is it?-->
-- ...
-- Gloger vs anti-Gloger patterns (Lev-Yadun 2015)
-    - e.g "negative Gloger's rule" in invertebrates, e.g. Collembolates [@Rapoport1969]
-- Does the pattern exist? Is it observed in the first place?
-- Dissect the observations at the intrasp., intersp., and assemblage levels
-- @Kamilar2011 primate *inter*specific coat colour follows Gloger's rule -> little mechanistic work in this paper though! They speculate about 1) background matching, 2) anti-bacterial stuff, and 3) maybe thermoregulation (#FutureStudies)
-    - unlikely to be UV, because primates live in trees!
-        - (not even in the upper-canopy, where UV is strong---primates do not spend tonnes of time up there)
-- @Bishop2016 ant *assemblage* work (ECTOTHERMAL):
-    - organismal darkenss as a modal pattern
-    - at low temperatures for thermoregulatory needs
-    - at higher temperatures for UV-B protection
-    - also darkness incr with smaller body size
-    - these patterns are evident at the *assemblage* level
-    
-    ```
-            |\              
-            |  \           /
-    pigment |   \         /
-            |    \_______/
-            |__________________
-                temperature
-    ```
-    
-- Animal vs plant e.g. -> differences in meaning and interpretation
-    - @Dominy2004 food colour and primates?
-        - could THIS connect to an environmental pattern in plant colour?
+
+Gloger vs anti-Gloger patterns [sensu @LevYadun2015], e.g "negative Gloger's rule" in invertebrates, e.g. Collembolates [@Rapoport1969]
+
+Does the pattern exist? Is it observed in the first place? Dissect the observations at the intrasp., intersp., and assemblage levels
+
+@Kamilar2011 primate *inter*specific coat colour follows Gloger's rule -> little mechanistic work in this paper though! They speculate about 1) background matching, 2) anti-bacterial stuff, and 3) maybe thermoregulation (#FutureStudies). Unlikely to be UV, because primates live in trees! (not even in the upper-canopy, where UV is strong---primates do not spend tonnes of time up there)
+
+@Vanderwerf2012 looked at bird body size, bill size, and plumage in populations two closesly related birds across environmental gradients in Hawai'i. With regards to plumage, bird individuals (N.B. this is basically intraspecific-scale work!), Gloger's rule was supported, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries *and* steep environmental gradients.
+
+@Bishop2016 ant *assemblage* work (ECTOTHERMAL):
+
+- organismal darkenss as a modal patter
+- at low temperatures for thermoregulatory need
+- at higher temperatures for UV-B protectio
+- also darkness incr with smaller body siz
+- these patterns are evident at the *assemblage* level
+ 
+```
+        |\              
+        |  \           /
+pigment |   \         /
+        |    \_______/
+        |__________________
+            temperature
+```
+   
+Animal vs plant e.g. -> differences in meaning and interpretation. Also consider @Dominy2004 food colour and primates---could THIS connect to an environmental pattern in plant colour?
 
 
 ## Mechanisms behind the pattern
 
 <!--What could be causing this pattern, and why? Does it depend on the organism?-->
-- ...
-- Burtt & Ichida -> dark pulamge resistant to bacterial degradation (~ pigments), a common problem in humid climes; mthods: measure intrasp. ∆colour vs bacterial activity
-    - cf Koski & Ashman -> UV role (in plants)
-- Persistent colour polymorphism (Tate et al. 2016) within a populations of a species -> equivalent fitness of the morphs in heterogeneous habitats; results: darker species forage/hunt better in darker habitats (~ hiding in the ambient background). Since (Ruan says) darker habs are wetter (ish), this relates to Gloger's rule.
+
+@burtt2004 found that dark pluamge is resistant to bacterial degradation (~ pigments), a common problem in humid climes; methods: measure intrasp. ∆colour vs bacterial activity.
+
+cf Koski & Ashman (2015) -> UV role (in plants)
+
+@tate2016 found persistent colour polymorphism within a populations of a species -> equivalent fitness of the morphs in heterogeneous habitats; results: darker species forage/hunt better in darker habitats (~ hiding in the ambient background). Since (Ruan says) darker habs are wetter (ish), this relates to Gloger's rule.
+
 - Connect evidence above to mechanisms described in their respective papers (if applicable)
 - & mechanisms from other papers concerning pigment and environment (e.g. Tate et al. 2016)
 - Dissect the observations at the intrasp., intersp., and assemblage levels MECHANISTICALLY
@@ -166,3 +171,5 @@ Some intro stuff, e.g. "Herein, I argue that there is sufficient<!--/insufficien
 
 ## \small References
 \footnotesize \hangparas{15pt}{1}
+
+Koski, M. H., & Ashman, T. L. (2015). Floral pigmentation patterns provide an example of Gloger's rule in plants. Nature Plants, 1, 14007.<!--get proper ref-->
