@@ -87,17 +87,15 @@ It is important to consider what is mean by the term "rule" in biology. There ar
 
 @Lomolino2006 also talk about theory vs empirical evidence, and varying scales, and also the evolutionary side to *eco*geographic rules<!--expand; read more-->.
 
-@Gaston2008 (has a def for Gloger's rule too) (also d/d's betw intrasp. traits, intersp. traits, and assemblage patterns (e.g. Bishop2016 on ants) (in community properties or community trait avgs))
-
-@Millien2006 discuss ecotypic (i.e. intraspecific, i.e. between populations) variation in terms of ecogeographic rules, too.
-
 @Olalla2011 discusses approaches to studying rules too, with focus on Bergmann's rule<!--ref?-->. @Olalla2011 advocates a *pluralist* approach, wherein the manifestations of ecogeographical rules at multiple scales and levels of biological organisation are considered. He also outlines that "laws" and "rules" in ecology, and in science generally, need not *always* contain mechanistic statements, need not be without exception, as they are "correlative generalisations". Though, mechanistic understandings of the processes that generate these law-defining patterns is desirable, and indeed often the aim of research, this does not imply that correlative ecogeographic rules are not useful intrinsically. Not least, these rules are often the starting point of research. Thus, these rules represent interesting observed patterns that can motivate research, *and* useful generalisations that can be employed in other work.
 
 ### Ecogeographic rules across levels of organisation
 
-+ stuff above
+@Gaston2008 (has a def for Gloger's rule too) (also d/d's betw intrasp. traits, intersp. traits, and assemblage patterns (e.g. @Bishop2016 on ants) (in community properties or community trait avgs))
 
-Ontogenetic level too! (Booth, C.L. 1990)
+@Millien2006 discuss ecotypic (i.e. intraspecific, i.e. between populations) variation in terms of ecogeographic rules, too.
+
+@Booth1990: Ontogenetic level too!
 
 
 ## Gloger's rule---evidence & examples
@@ -108,12 +106,12 @@ See @Roulin2015 for a good def of the rule in the abstract (e.g. fitness benefit
 
 ### Manifestations of Gloger's rules
 
-Intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) svs intersp./community level manifestations (Lev-Yadun 2015)
+Intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) svs intersp./community level manifestations [@LevYadun2015]
 
 ### Where does this idea come from? What's the logic?
 
 - Gloger's observations
-    - Gloger noted bird plumage darkness ~ warmth, humidity (Miksch; Burtt & Ichida 2004)
+    - Gloger noted bird plumage darkness ~ warmth, humidity [@Miksch2015; @burtt2004]
 - His contemporaries' thoughts
 - Theoretical reasoning behind the rule (if any??)
 
@@ -144,7 +142,8 @@ pigment |   \         /
         |    \_______/
         |__________________
             temperature
-            (~^confound rainfall, sexual selection)
+            (~^confound rainfall,
+                        sexual selection)
 ```
 
 Plants vs endothermic animals vs ectothermic animals; UV-B protection (Gloger's rule) vs thermal hypothesis vs dessication hypothesis [@Pinkert2016]; Plants foliarly [sensu @LevYadun2007] vs florally [sensu @Koski2015]
@@ -158,12 +157,12 @@ Animal vs plant e.g. -> differences in meaning and interpretation. Also consider
 
 @burtt2004 found that dark pluamge is resistant to bacterial degradation (~ pigments), a common problem in humid climes; methods: measure intrasp. ∆colour vs bacterial activity.
 
-cf Koski & Ashman (2015) -> UV role (in plants)
+cf @Koski2015 -> UV role (in plants)
 
 @tate2016 found persistent colour polymorphism within a populations of a species -> equivalent fitness of the morphs in heterogeneous habitats; results: darker species forage/hunt better in darker habitats (~ hiding in the ambient background). Since (Ruan says) darker habs are wetter (ish), this relates to Gloger's rule.
 
 - Connect evidence above to mechanisms described in their respective papers (if applicable)
-- & mechanisms from other papers concerning pigment and environment (e.g. Tate et al. 2016)
+- & mechanisms from other papers concerning pigment and environment [e.g. @tate2016]
 - Dissect the observations at the intrasp., intersp., and assemblage levels MECHANISTICALLY
 - Animal vs plant e.g. -> differences in meaning and interpretation for MECHANISM
 
