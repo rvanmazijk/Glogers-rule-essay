@@ -79,7 +79,7 @@ Herein, I discuss the treatment of ecogeographic rules in ecological and evoluti
 
 ## Ecogeographic & biogeographic "rules"
 
-### Theory vs empiricism of "rules" ...
+The theory vs empiricism of "rules" ...
 
 It is important to consider what is mean by the term "rule" in biology. There are many of biogeographic and ecogeographic patterns that are referred to as rules, e.g. Bergmann's rule, Allen's rule,<!--expand; explain; refs--> etc. Gloger's rule, the focus here, is also often grouped with these.
 
@@ -87,11 +87,11 @@ It is important to consider what is mean by the term "rule" in biology. There ar
 
 @Lomolino2006 also talk about theory vs empirical evidence, and varying scales, and also the *evolutionary* side to *eco*geographic rules<!--expand; read more-->.
 
-@Olalla2011 discusses approaches to studying rules too, with focus on Bergmann's rule<!--ref?-->. @Olalla2011 advocates a *pluralist* approach, wherein the manifestations of ecogeographical rules at multiple scales and levels of biological organisation are considered<!--see below-->. He also outlines that "laws" and "rules" in ecology, and in science generally, need not *always* contain mechanistic statements, and need not be without exception, as they are "correlative generalisations". Though, mechanistic understandings of the processes that generate patterns is desirable, and indeed often the aim of research, this does not imply that correlative ecogeographic rules are not useful intrinsically. Not least, these rules are often the starting point of research. Thus, these rules represent interesting observed patterns that can motivate research, *and* useful generalisations that can be employed in other work.
+@Olalla2011 discusses approaches to studying rules too, with focus on Bergmann's rule<!--ref?-->. @Olalla2011 advocates a pluralist approach, wherein the manifestations of ecogeographical rules at multiple scales and levels of biological organisation are considered<!--see below-->. He also outlines that "laws" and "rules" in ecology, and in science generally, need not *always* contain mechanistic statements, and need not be without exception, as they are "correlative generalisations". Though, mechanistic understandings of the processes that generate patterns is desirable, and indeed often the aim of research, this does not imply that correlative ecogeographic rules are not useful intrinsically. Not least, these rules are often the starting point of research. Thus, these rules represent interesting observed patterns that can motivate research, *and* useful generalisations that can be employed in other work.
 
-### Ecogeographic rules across levels of organisation
+\hfill
 
-@Gaston2008 differentiate between *intra*specific, *inter*specific, and *assemblage* patterns in organismal traits across environmental gradients. @Bishop2016, for example, describe community trait averages in order to describe the extent of Gloger's rule<!--and the other one-->in ants.
+\noindent Ecogeographic rules operate across various levels of biological organisation<!--refs!!-->.@Gaston2008 differentiate between *intra*specific, *inter*specific, and *assemblage* patterns in organismal traits across environmental gradients. @Bishop2016, for example, describe community trait averages in order to describe the extent of Gloger's rule<!--and the other one-->in ants.
 
 @Millien2006 discuss ecotypic (i.e. intraspecific, i.e. between populations) variation in terms of ecogeographic rules, too.
 
@@ -100,7 +100,7 @@ It is important to consider what is mean by the term "rule" in biology. There ar
 
 ## Gloger's rule---evidence & examples
 
-### Origins of the rule
+Origins of the rule ...
 
 As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too). @Roulin2015 describe the logic of Gloger’s rule lucidly:
 
@@ -112,22 +112,29 @@ As stated above, Gloger's rule stems from his observations of bird plumage darkn
 
 \noindent They investigate animal fitness in warm, humid environments as conferred via alternative phenotypic adaptations (viz. in owls)<!--include detail below-->. The implication of *fitness* in a given habitat allows one to see the *evolutionary* aspect to Gloger's *eco*geographic rule (a sentiment @Lomolino2006 highlights).
 
-Studies concerning the rule, and indeed most patterns in nature [@Lomolino2006], must ideally consider the historical, evolutionary context to organismal form---not just local deterministic mechanisms.
+<!--
 
-Though, it must be noted, the extent to which historical and deterministic processes govern organismal pigmentation largely depends on the scale of investigation. Ontogenetic changes in pigementation are a-historical<!--ref-->. Intraspecific patterns may represent micro-evolutionary fitness benefits to certain genotypes<!--ref-->. Interspecific and assemblage patterns, however, would be indicative of more long-term, persistent selection pressures---e.g. ant species *assemblages* follow Gloger's rule in humid environments, implying that there may be long-standing, consistent strength to Gloger's rule in ants. In other words, enough evolutionary time must pass [...]<!--expand-->.
-
-Conversely, with respect to interspecific and community ecogeographic patterns, environmental filtering could conceivably produc trait patterns over shorter, ecological time-scales. In this case, if the traits in taxa that follow an ecogeographic rule (e.g. Gloger's rule) *do* confer a fitness benefit as the rule would predict, they would not be adaptations (sensu Baum, Mayr, [...]<!--get refs!; expand?-->), having evolved elsewhere. Distinguishing between whether organismal pigmentation follows the Gloger's rule pattern (if and when it does) is governed by deterministic (i.e. environmental filtering) or historical (i.e. adaptation) process would be insightful. Research concerning this distinction would further allow one to ascertain the degree to which Gloger's rule is a consequence of multiple processes (at multiple spatio-temporal scales), and the number and relative strength of processes that partake therein. In such a case that these patterns have, say, historical drivers in one system at one scale, and deterministic drivers in another, this would emphasise the complexity of ecogeographic patterns. It would also mirror the notion @Olalla2011 puts forward, wherein correlative generalisations, such as Gloger's rule, need not encapsulate one, if any, mechanisms.
-
-### Manifestations of Gloger's rules
-
-Intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) svs intersp./community level manifestations [@LevYadun2015]
-
-### Where does this idea come from? What's the logic?
+Where does this idea come from? What's the logic?
 
 - Gloger's observations
     - Gloger noted bird plumage darkness ~ warmth, humidity [@Miksch2015; @burtt2004]
 - His contemporaries' thoughts
 - Theoretical reasoning behind the rule (if any??)
+
+-->
+
+Studies concerning the rule, and indeed most patterns in nature [@Lomolino2006], must ideally consider the historical, evolutionary context to organismal form---not just local deterministic mechanisms.
+
+<!--Move this section to § on mechansism?-->
+
+Though, it must be noted, the extent to which historical and deterministic processes govern organismal pigmentation largely depends on the scale of investigation. Ontogenetic changes in pigementation are a-historical<!--ref-->. Intraspecific patterns may represent micro-evolutionary fitness benefits to certain genotypes<!--ref-->. Interspecific and assemblage patterns, however, would be indicative of more long-term, persistent selection pressures---e.g. ant species *assemblages* follow Gloger's rule in humid environments, implying that there may be long-standing, consistent strength to Gloger's rule in ants. In other words, enough evolutionary time must pass [...]<!--expand-->.
+
+Conversely, with respect to interspecific and community ecogeographic patterns, environmental filtering could conceivably produce trait patterns over shorter, ecological time-scales. In this case, if the traits in taxa that follow an ecogeographic rule (e.g. Gloger's rule) *do* confer a fitness benefit as the rule would predict, they would not be adaptations (sensu Baum, Mayr, [...]<!--get refs!; expand?-->), having evolved elsewhere.
+
+Distinguishing between whether organismal pigmentation follows the Gloger's rule pattern (if and when it does) is governed by deterministic (i.e. environmental filtering) or historical (i.e. adaptation) process would be insightful. Research concerning this distinction would further allow one to ascertain the degree to which Gloger's rule is a consequence of multiple processes (at multiple spatio-temporal scales), and the number and relative strength of processes that partake therein. In such a case that these patterns have, say, historical drivers in one system at one scale, and deterministic drivers in another, this would emphasise the complexity of ecogeographic patterns. It would also mirror the notion @Olalla2011 puts forward, wherein correlative generalisations, such as Gloger's rule, need not encapsulate one, if any, mechanisms. Though, it is unlikely that there is *no* mechanisms behind Gloger's rule patterns. Instead, it is interesting and insightful that multiple mechanisms, combined or in isolation, govern these patterns.
+
+Manifestations of Gloger's rules across various scales and levels of organisation [...] intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) svs intersp./community level manifestations [@LevYadun2015]
+
 
 ### Evidence & examples
 
