@@ -114,15 +114,6 @@ As stated above, Gloger's rule stems from his observations of bird plumage darkn
 
 @Millien2006 discuss ecotypic (i.e. intraspecific, i.e. between populations) variation in terms of ecogeographic rules, too.
 
-Studies concerning Gloger's rule, and indeed most patterns in nature [@Lomolino2006], must ideally consider the historical, evolutionary context to organismal form---not just local deterministic mechanisms.
-
-<!--Move this to § on mechansism?-->
-
-Though, it must be noted, the extent to which historical and deterministic processes govern organismal pigmentation largely depends on the scale of investigation. Ontogenetic changes in pigementation are a-historical<!--ref-->. Intraspecific patterns may represent micro-evolutionary fitness benefits to certain genotypes<!--ref-->. Interspecific and assemblage patterns, however, would be indicative of more long-term, persistent selection pressures---e.g. ant species *assemblages* follow Gloger's rule in humid environments, implying that there may be long-standing, consistent strength to Gloger's rule in ants. In other words, enough evolutionary time must pass [...]<!--expand-->.
-
-Conversely, with respect to interspecific and community ecogeographic patterns, environmental filtering could conceivably produce trait patterns over shorter, ecological time-scales. In this case, if the traits in taxa that follow an ecogeographic rule (e.g. Gloger's rule) *do* confer a fitness benefit as the rule would predict, they would not be adaptations (sensu Baum, Mayr, [...]<!--get refs!; expand?-->), having evolved elsewhere.
-
-Distinguishing between whether organismal pigmentation follows the Gloger's rule pattern (if and when it does) is governed by deterministic (i.e. environmental filtering) or historical (i.e. adaptation) processes would be insightful. Research concerning this distinction would further allow one to ascertain the degree to which Gloger's rule is a consequence of multiple processes (at multiple spatio-temporal scales), and the number and relative strength of processes that partake therein. In such a case that these patterns have, say, historical drivers in one system at one scale, and deterministic drivers in another, this would emphasise the complexity of ecogeographic patterns. It would also mirror the notion @Olalla2011 puts forward, wherein correlative generalisations, such as Gloger's rule, need not encapsulate one, if any, mechanisms. Though, it is unlikely that there is *no* mechanisms behind Gloger's rule patterns. Instead, it is interesting and insightful that multiple mechanisms, combined or in isolation, govern these patterns.
 
 Manifestations of Gloger's rules across various scales and levels of organisation [...] intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) vs intersp./community level manifestations [@LevYadun2015]
 
@@ -176,6 +167,12 @@ cf @Koski2015 -> UV role (in plants)
 - & mechanisms from other papers concerning pigment and environment [e.g. @tate2016]
 - Dissect the observations at the intrasp., intersp., and assemblage levels MECHANISTICALLY
 - Animal vs plant e.g. -> differences in meaning and interpretation for MECHANISM
+
+Studies concerning Gloger's rule, and indeed most patterns in nature [@Lomolino2006], must ideally consider the historical, evolutionary context to organismal form---not just local deterministic mechanisms. Though, it must be noted, the extent to which historical and deterministic processes govern organismal pigmentation largely depends on the scale of investigation. Ontogenetic changes in pigementation are a-historical<!--ref-->. Intraspecific patterns may represent micro-evolutionary fitness benefits to certain genotypes<!--ref-->. Interspecific and assemblage patterns, however, would be indicative of more long-term, persistent selection pressures---e.g. ant species *assemblages* follow Gloger's rule in humid environments, implying that there may be long-standing, consistent strength to Gloger's rule in ants. In other words, enough evolutionary time must pass [...]<!--expand-->.
+
+Conversely, with respect to interspecific and community ecogeographic patterns, environmental filtering could conceivably produce trait patterns over shorter, ecological time-scales. In this case, if the traits in taxa that follow an ecogeographic rule (e.g. Gloger's rule) *do* confer a fitness benefit as the rule would predict, they would not be adaptations (sensu Baum, Mayr, [...]<!--get refs!; expand?-->), having evolved elsewhere.
+
+Distinguishing between whether organismal pigmentation follows the Gloger's rule pattern (if and when it does) is governed by deterministic (i.e. environmental filtering) or historical (i.e. adaptation) processes would be insightful. Research concerning this distinction would further allow one to ascertain the degree to which Gloger's rule is a consequence of multiple processes (at multiple spatio-temporal scales), and the number and relative strength of processes that partake therein. In such a case that these patterns have, say, historical drivers in one system at one scale, and deterministic drivers in another, this would emphasise the complexity of ecogeographic patterns. It would also mirror the notion @Olalla2011 puts forward, wherein correlative generalisations, such as Gloger's rule, need not encapsulate one, if any, mechanisms. Though, it is unlikely that there is *no* mechanisms behind Gloger's rule patterns. Instead, it is interesting and insightful that multiple mechanisms, combined or in isolation, govern these patterns.
 
 
 ## Concluding remarks
