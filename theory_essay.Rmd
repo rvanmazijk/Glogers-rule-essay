@@ -105,14 +105,16 @@ The scale and levels of organisation at which Gloger's rule is an important cons
 
 How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the rule, or patterns similar to it.
 
+<!--
 - Connect evidence above to mechanisms described in their respective papers (if applicable)
 - & mechanisms from other papers concerning pigment and environment [e.g. @tate2016]
 - Dissect the observations at the intrasp., intersp., and assemblage levels MECHANISTICALLY
 - Animal vs plant e.g. -> differences in meaning and interpretation for MECHANISM
+-->
 
 ### [Endotherms]
 
-As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too) Gloger noted bird plumage was darker in warmer, more humid areas [@Miksch2015; @burtt2004] than the plumage of conspecific birds in more arid areas [@burtt2004]. @Roulin2015 describe the logic of Gloger’s rule lucidly:
+As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too) Gloger noted bird plumage was darker in warmer, more humid areas [@Miksch2015; @burtt2004] than the plumage of conspecific birds in more arid areas [@burtt2004]. @Roulin2015 describe the logic of Gloger’s rule lucidly<!--move this quote to the intro?-->:
 
 \footnotesize
 
@@ -120,7 +122,7 @@ As stated above, Gloger's rule stems from his observations of bird plumage darkn
 
 \normalsize
 
-\noindent They investigate animal fitness in warm, humid environments as conferred via alternative phenotypic adaptations (viz. in owls)<!--include detail below-->. The implication of *fitness* in a given habitat allows one to see the *evolutionary* aspect to Gloger's *eco*geographic rule (a sentiment @Lomolino2006 highlights).
+\noindent They investigate animal fitness in warm, humid environments as conferred via alternative phenotypic adaptations (viz. in owls)<!--include detail below-->. The implication of *fitness* in a given habitat allows one to see the *evolutionary* aspect to Gloger's *eco*geographic rule (a sentiment @Lomolino2006 highlights)<!--move this remark to the § on evolution?-->.
 
 <!--His contemporaries' thoughts: "Gloger's rule has garnered research interest and support over the years" <- is this true? ref!; Expand on the rule's study through history (i.e. since 1833)-->Like many other other ecogeographic rules, Gloger's rule has gained renewed research interest in the 21st century [@Lomolino2006].
 
