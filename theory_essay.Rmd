@@ -125,7 +125,7 @@ Herein, I discuss the treatment of ecogeographic rules in ecological and evoluti
 
 The theory vs empiricism of "rules" ...
 
-It is important to consider what is mean by the term "rule" in biology. There are many of biogeographic and ecogeographic patterns that are referred to as rules, e.g. Bergmann's rule, Allen's rule,<!--expand; explain; refs--> etc. Gloger's rule, the focus here, is also often grouped with these.
+It is important to consider what is meant by the term "rule" in biology. There are many of biogeographic and ecogeographic patterns that are referred to as rules, e.g. Bergmann's rule, Allen's rule,<!--expand; explain; refs--> etc. Gloger's rule, the focus here, is also often grouped with these.
 
 @Lomolino2006 outline the study of observed patterns or trends of organismal traits across geographical space with ecogeographic rules (i.e. observations<!--elaborate on the nature of "rules"-->). They highlight examples of *patterns* at broad ecological scales as consequence of *processes* at a range of scales. Indeed, the patterns themselves are also manifest at a variety of scales and levels of organisation<!--(namely ontogenetic, intraspecific, interspecific, and assemblage)-->. As such, @Lomolino2006 notes, underlying causal mechanisms behind these patterns are difficult to ascertain.
 

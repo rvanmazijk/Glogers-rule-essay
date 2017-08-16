@@ -1,0 +1,40 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    fig_caption: true
+fontsize: 11pt
+geometry: margin = 0.5in, a4paper
+mainfont: Calibri
+header-includes:
+  - \usepackage{lipsum}
+  # Formatting
+  - \setlength{\parindent}{15pt}
+  - \setlength{\parskip}{0pt}
+  - \renewcommand{\baselinestretch}{1}
+---
+
+<!--Markdown tables are very simplistic (no support for the "Taxon" multicol!)
+|             | Taxon                                                        |
+|-------------|------------------------|------------------------|------------|
+|Scale        | Endothermic animals    | Ectothermic animals    | Plants     |
+|-------------|------------------------|------------------------|------------|
+| intrasp.    |                        |                        |            |
+| intersp.    |                        |                        |            |
+| assemblage  |                        |                        |            |
+Table. [...]
+-->
+
+<!--LaTeX tables are very complicated... But I have to use them here, b.c. I'm making a PDF-->
+\centering
+\begin{tabular}{p{2.5cm}|p{3cm}p{3cm}p{3cm}}
+    \hline
+    Scale          & \multicolumn{3}{c}{Taxon}              \\
+    \hline  
+                   & Endotherms   & Ectotherms   & Plants   \\
+    \hline      
+    Instraspecific &              &              &          \\
+    Interspecific  &              &              &          \\
+    Assemblage     &              &              &          \\
+    \hline
+\end{tabular}
