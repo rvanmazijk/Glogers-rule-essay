@@ -16,10 +16,10 @@ header-includes:
 
 | Scale         | Endotherms | Ectotherms | Plants |
 |---------------|------------|------------|--------|
-| Intraspecific | +          | -          | +      |
-| Interspecific | +          | ?          | ?      |
-| Assemblage    | +          | +/-        | ?      |
+| Intraspecific | $+$        | $-$        | $+$    |
+| Interspecific | $+$        | $?$        | $?$    |
+| Assemblage    | $+$        | $\pm$      | $?$    |
 
-Table: Summary of patterns in organismal darkness (for three different practical groups: Endotherms, ectotherms, and plants) across geographical humidity gradients for comparisons at three different scales of biological organisation (Scales): within species, between species, and between communities. See text for more details. The symbols in each cell denote the applicability and/or state of knowledge of Gloger's rule for that cell's scale and organismal group. +, Gloger's rule observed; -, inverse Gloger's rule observed; +/-, Gloger's rule observed partially, with opposite patterns in certain cases; ?, unstudied.
+Table: Summary of patterns in organismal darkness (for three different practical groups: Endotherms, ectotherms, and plants) across geographical humidity gradients for comparisons at three different scales of biological organisation (Scales): within species, between species, and between communities. See text for more details. The symbols in each cell denote the applicability and/or state of knowledge of Gloger's rule for that cell's scale and organismal group, as follows: $+$, Gloger's rule observed; $-$, inverse Gloger's rule observed; $\pm$, Gloger's rule observed partially, with opposite patterns in certain cases; $?$, unstudied.
 
 <!--TODO: add references?-->
