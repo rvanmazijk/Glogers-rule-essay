@@ -103,6 +103,13 @@ The scale and levels of organisation at which Gloger's rule is an important cons
 
 <!--What could be causing this pattern, and why? Does it depend on the organism?-->
 
+How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the rule, or patterns similar to it.
+
+- Connect evidence above to mechanisms described in their respective papers (if applicable)
+- & mechanisms from other papers concerning pigment and environment [e.g. @tate2016]
+- Dissect the observations at the intrasp., intersp., and assemblage levels MECHANISTICALLY
+- Animal vs plant e.g. -> differences in meaning and interpretation for MECHANISM
+
 ### [Endotherms]
 
 As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too) Gloger noted bird plumage was darker in warmer, more humid areas [@Miksch2015; @burtt2004] than the plumage of conspecific birds in more arid areas [@burtt2004]. @Roulin2015 describe the logic of Gloger’s rule lucidly:
@@ -117,13 +124,23 @@ As stated above, Gloger's rule stems from his observations of bird plumage darkn
 
 <!--His contemporaries' thoughts: "Gloger's rule has garnered research interest and support over the years" <- is this true? ref!; Expand on the rule's study through history (i.e. since 1833)-->Like many other other ecogeographic rules, Gloger's rule has gained renewed research interest in the 21st century [@Lomolino2006].
 
-@Millien2006 discuss ecotypic (i.e. intraspecific, i.e. between populations) variation in terms of ecogeographic rules, too.
-
-Manifestations of Gloger's rules across various scales and levels of organisation [...] intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) vs intersp./community level manifestations [@LevYadun2015]
-
-How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the rule, or patterns similar to it. First, there is well studied evidence of Gloger's rule at the intraspecific level in birds. E.g. Song Sparrows (*Melospiza melodia*) in North America [@burtt2004], North American Barn Owls (*Tyto alba pratincola*) [@Roulin2015], Hawaii Elepaios (*Chasiempis sandwichensis*) [@Vanderwerf2012], Oahu Elepaios (*C. ibidis*) (in the same study by @Vanderwerf2012), and ...<!--more!!-->. Gloger's rule has also been documented within mammal species. E.g. house mice (*Mus musculus*) in Asia [@Lai2008]<!--more!!-->.<!--Insect + more examples!!--> Notably, extending the generality of the rule [@Koski2015], the plant species *Argentina anserina* has been found to follow the rule in its floral pigmentation (in ultraviolet wavelengths) [@Koski2015], having stronger "bullseye" markings when occuring nearer the equator.
+There is well studied evidence of Gloger's rule at the intraspecific level in birds. E.g. Song Sparrows (*Melospiza melodia*) in North America [@burtt2004], North American Barn Owls (*Tyto alba pratincola*) [@Roulin2015], Hawaii Elepaios (*Chasiempis sandwichensis*) [@Vanderwerf2012], Oahu Elepaios (*C. ibidis*) (in the same study by @Vanderwerf2012), and ...<!--more!!-->. Gloger's rule has also been documented within mammal species. E.g. house mice (*Mus musculus*) in Asia [@Lai2008]<!--more!!-->.<!--Insect + more examples!!--> Notably, extending the generality of the rule [@Koski2015], the plant species *Argentina anserina* has been found to follow the rule in its floral pigmentation (in ultraviolet wavelengths) [@Koski2015], having stronger "bullseye" markings when occuring nearer the equator.
 
 In interpecific comparisons of organismal darkness, Gloger's rule patterns have been observed in birds (...<!--search!!-->), mammals (e.g. primate coat colour [@Kamilar2011] ...<!--search!!-->), insects (e.g. ant assemblages [@Bishop2016]).
+
+@Vanderwerf2012 looked at bird body size, bill size, and plumage in populations two closesly related birds across environmental gradients in Hawai'i. With regards to plumage, bird individuals (N.B. this is basically intraspecific-scale work! Not just b.c. the two species are closely related, but b.c. they only seem to actualy DO intrasp. comparisons anyway), Gloger's rule was supported, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries *and* steep environmental gradients. @Vanderwerf2012 background matching maybe too??
+
+@burtt2004 found that dark pluamge is resistant to bacterial degradation (~ pigments), a common problem in humid climes; methods: measure intrasp. ∆colour vs bacterial activity.
+
+cf @Koski2015 -> UV role (in plants)
+
+@tate2016 found persistent colour polymorphism within a populations of a species -> equivalent fitness of the morphs in heterogeneous habitats; results: darker species forage/hunt better in darker habitats (~ hiding in the ambient background). Since (Ruan says) darker habs are wetter (ish), this relates to Gloger's rule.
+
+@Shawkey2004 microbial feather shit! read more...
+
+@Kamilar2011 -> little mechanistic work in this paper though! They speculate about 1) background matching, 2) anti-bacterial stuff, and 3) maybe thermoregulation (#FutureStudies). Unlikely to be UV, because primates live in trees! (not even in the upper-canopy, where UV is strong---primates do not spend tonnes of time up there)
+
+Animal vs plant e.g. -> differences in meaning and interpretation. Also consider @Dominy2004 food colour and primates---could THIS connect to an environmental pattern in plant colour?
 
 ### [Ectotherms]
 
@@ -131,7 +148,17 @@ Concerning the applicability of Gloger's rule to ectotherms (viz. invertebrates)
 
 ### [Plants]
 
+cf @Koski2015 -> UV role (in plants)
+
+Animal vs plant e.g. -> differences in meaning and interpretation
+
+Plants vs endothermic animals vs ectothermic animals (for animals see highlighted § in @James1991); UV-B protection (Gloger's rule) vs thermal hypothesis vs dessication hypothesis [@Pinkert2016]; Plants foliarly [sensu @LevYadun2007] vs florally [sensu @Koski2015]
+
 ### [Across scales]
+
+@Millien2006 discuss ecotypic (i.e. intraspecific, i.e. between populations) variation in terms of ecogeographic rules, too.
+
+Manifestations of Gloger's rules across various scales and levels of organisation [...] intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) vs intersp./community level manifestations [@LevYadun2015]
 
 ### [Evolution-rant]
 
@@ -141,22 +168,7 @@ Conversely, with respect to interspecific and community ecogeographic patterns, 
 
 Distinguishing between whether organismal pigmentation follows the Gloger's rule pattern (if and when it does) is governed by deterministic (i.e. environmental filtering) or historical (i.e. adaptation) processes would be insightful. Research concerning this distinction would further allow one to ascertain the degree to which Gloger's rule is a consequence of multiple processes (at multiple spatio-temporal scales), and the number and relative strength of processes that partake therein. In such a case that these patterns have, say, historical drivers in one system at one scale, and deterministic drivers in another, this would emphasise the complexity of ecogeographic patterns. It would also mirror the notion @Olalla2011 puts forward, wherein correlative generalisations, such as Gloger's rule, need not encapsulate one, if any, mechanisms. Though, it is unlikely that there is *no* mechanisms behind Gloger's rule patterns. Instead, it is interesting and insightful that multiple mechanisms, combined or in isolation, govern these patterns.
 
-\hfill
-
-- @VanLenning2004 -> evolutionary, not deterministic, pattern to coccolithophore pigment
-- @Vanderwerf2012 looked at bird body size, bill size, and plumage in populations two closesly related birds across environmental gradients in Hawai'i. With regards to plumage, bird individuals (N.B. this is basically intraspecific-scale work! Not just b.c. the two species are closely related, but b.c. they only seem to actualy DO intrasp. comparisons anyway), Gloger's rule was supported, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries *and* steep environmental gradients.
-- Plants vs endothermic animals vs ectothermic animals (for animals see highlighted § in @James1991); UV-B protection (Gloger's rule) vs thermal hypothesis vs dessication hypothesis [@Pinkert2016]; Plants foliarly [sensu @LevYadun2007] vs florally [sensu @Koski2015]
-- Animal vs plant e.g. -> differences in meaning and interpretation. Also consider @Dominy2004 food colour and primates---could THIS connect to an environmental pattern in plant colour?
-- @Kamilar2011 -> little mechanistic work in this paper though! They speculate about 1) background matching, 2) anti-bacterial stuff, and 3) maybe thermoregulation (#FutureStudies). Unlikely to be UV, because primates live in trees! (not even in the upper-canopy, where UV is strong---primates do not spend tonnes of time up there)
-- @burtt2004 found that dark pluamge is resistant to bacterial degradation (~ pigments), a common problem in humid climes; methods: measure intrasp. ∆colour vs bacterial activity.
-- cf @Koski2015 -> UV role (in plants)
-- @tate2016 found persistent colour polymorphism within a populations of a species -> equivalent fitness of the morphs in heterogeneous habitats; results: darker species forage/hunt better in darker habitats (~ hiding in the ambient background). Since (Ruan says) darker habs are wetter (ish), this relates to Gloger's rule.
-    - Connect evidence above to mechanisms described in their respective papers (if applicable)
-    - & mechanisms from other papers concerning pigment and environment [e.g. @tate2016]
-    - Dissect the observations at the intrasp., intersp., and assemblage levels MECHANISTICALLY
-    - Animal vs plant e.g. -> differences in meaning and interpretation for MECHANISM
-- & @Shawkey2004 microbial feather shit! read more...
-- @Vanderwerf2012 background matching maybe too??
+@VanLenning2004 -> evolutionary, not deterministic, pattern to coccolithophore pigment
 
 
 ## Concluding remarks
