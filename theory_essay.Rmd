@@ -9,7 +9,6 @@ fontsize: 11pt
 geometry: margin = 0.5in, a4paper
 mainfont: Calibri
 csl: harvard-university-of-cape-town-rvm_2017-08-15.csl  # version w/o comma in in-text citations
-#csl: nature.csl
 bibliography: Hons_theory_essay.bib
 header-includes:
   - \usepackage{lipsum}
@@ -117,10 +116,7 @@ As stated above, Gloger's rule stems from his observations of bird plumage darkn
 
 Manifestations of Gloger's rules across various scales and levels of organisation [...] intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) vs intersp./community level manifestations [@LevYadun2015]
 
-How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the rule, or patterns similar to it. First, there is well studied evidence of Gloger's rule at the intraspecific level in birds, namely ...
-
-- Song Sparrows (*Melospiza melodia*) in North America [@burtt2004]
-
+How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the rule, or patterns similar to it. First, there is well studied evidence of Gloger's rule at the intraspecific level in birds. E.g. Song Sparrows (*Melospiza melodia*) in North America [@burtt2004], North American Barn Owls (*Tyto alba pratincola*) [@Roulin2015], Hawaii Elepaios (*Chasiempis sandwichensis*) [@Vanderwerf2012], Oahu Elepaios (*C. ibidis*) (in the same study by @Vanderwerf2012), and ...<!--more!!-->. Gloger's rule has also been documented within mammal species. E.g. house mice (*Mus musculus*) in Asia [@Lai2008]<!--more!!-->.
 
 Gloger vs anti-Gloger patterns [sensu @LevYadun2015], e.g "negative Gloger's rule" in invertebrates, e.g. Collembolates [@Rapoport1969]
 
@@ -174,6 +170,7 @@ Conversely, with respect to interspecific and community ecogeographic patterns, 
 
 Distinguishing between whether organismal pigmentation follows the Gloger's rule pattern (if and when it does) is governed by deterministic (i.e. environmental filtering) or historical (i.e. adaptation) processes would be insightful. Research concerning this distinction would further allow one to ascertain the degree to which Gloger's rule is a consequence of multiple processes (at multiple spatio-temporal scales), and the number and relative strength of processes that partake therein. In such a case that these patterns have, say, historical drivers in one system at one scale, and deterministic drivers in another, this would emphasise the complexity of ecogeographic patterns. It would also mirror the notion @Olalla2011 puts forward, wherein correlative generalisations, such as Gloger's rule, need not encapsulate one, if any, mechanisms. Though, it is unlikely that there is *no* mechanisms behind Gloger's rule patterns. Instead, it is interesting and insightful that multiple mechanisms, combined or in isolation, govern these patterns.
 
+@Vanderwerf2012 background matching maybe too??
 
 ## Concluding remarks
 
