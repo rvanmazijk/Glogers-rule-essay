@@ -8,7 +8,7 @@ output:
 fontsize: 11pt
 geometry: margin = 0.5in, a4paper
 mainfont: Calibri
-csl: harvard-university-of-cape-town-rvm_2017-08-15.csl  # version w/o comma in in-text citations
+csl: harvard-university-of-cape-town-rvm_2017-08-15.csl  # comma-less in-text refs
 bibliography: Hons_theory_essay.bib
 header-includes:
   - \usepackage{lipsum}
@@ -100,6 +100,8 @@ The scale and levels of organisation at which Gloger's rule is an important cons
 
 ## Gloger's rule---evidence & examples
 
+<!--Does the pattern exist? Is it observed in the first place? Dissect the observations at the intrasp., intersp., and assemblage levels-->
+
 As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too) Gloger noted bird plumage was darker in warmer, more humid areas [@Miksch2015; @burtt2004] than the plumage of conspecific birds in more arid areas [@burtt2004]. @Roulin2015 describe the logic of Gloger’s rule lucidly:
 
 \footnotesize
@@ -118,29 +120,58 @@ Manifestations of Gloger's rules across various scales and levels of organisatio
 
 How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the rule, or patterns similar to it. First, there is well studied evidence of Gloger's rule at the intraspecific level in birds. E.g. Song Sparrows (*Melospiza melodia*) in North America [@burtt2004], North American Barn Owls (*Tyto alba pratincola*) [@Roulin2015], Hawaii Elepaios (*Chasiempis sandwichensis*) [@Vanderwerf2012], Oahu Elepaios (*C. ibidis*) (in the same study by @Vanderwerf2012), and ...<!--more!!-->. Gloger's rule has also been documented within mammal species. E.g. house mice (*Mus musculus*) in Asia [@Lai2008]<!--more!!-->.<!--Insect + more examples!!--> Notably, extending the generality of the rule [@Koski2015], the plant species *Argentina anserina* has been found to follow the rule in its floral pigmentation (in ultraviolet wavelengths) [@Koski2015], having stronger "bullseye" markings when occuring nearer the equator.
 
-In interpecific comparisons of organismal darkness, Gloger's rule patterns have been observed in birds (...<!--search!!-->), mammals (e.g. primate coat colour [@Kamilar2011] ...<!--search!!-->), insects (e.g. ant assemblages [@Bishop2016])
+In interpecific comparisons of organismal darkness, Gloger's rule patterns have been observed in birds (...<!--search!!-->), mammals (e.g. primate coat colour [@Kamilar2011] ...<!--search!!-->), insects (e.g. ant assemblages [@Bishop2016]).
+
+Concerning the applicability of Gloger's rule to ectotherms (viz. invertebrates), an "inverse" of Gloger's rule is often reported [@Rapoport1969; @LevYadun2015]. Indeed, the major mechanistic explanations for Gloger's rule in endotherms (below) can be reversed in ectotherms---should they deal with temperature---or outweighed by processes more important to ectotherm fitness in a given environment. Collembolates---interspecifically---follow this inverse Gloger's rule pattern [@Rapoport1969], such that the proportion of darker species is greater at higher latitudes. This is likely as they require greater degrees of melanism in order acrue heat from the environment more easily in these typically colder regions [@Rapoport1969]<!--move to mechanism section?-->. In the case of ant assemblages<!--elaborate on the importance of assemblage level patterns--> [@Bishop2016], a mixture of the class Gloger's rule and its inverse was demonstrated. Ant assemblages tended to be darkest in regions of high and low temperatures, and paler in colour in intermediate regions. At lower temperatures, ant assemblages tended to be darker for thermoregulatory reasons (as found with Collembolates [@Rapoport1969]), while in regions of higher temperature ant assemblages were more melanised also, in order to increase fitness in the high levels of ultraviolet radiation in warmer regions [@Bishop2016]. The resulting patterns [see Fig. 2b in @Bishop2016]<!--include this figure in my essay?--> were also interacting with ant assemblage mean body size, in that assemblages typified by smaller ants were also darker [see Fig. 2a in @Bishop2016]<!--include this figure in my essay?-->. This was concluded to be because smaller ectotherms more strongly require the thermoregulatory benefits of darker colouring, due to their relatively little therma inertia<!--ref!!-->.<!--plus go look @ Zeuss et al. 2014 & Schweiger & Beierkuhnlein 2015 (highlights in @Bishop2016)-->. 
+
+<!--
+restructuring possible? what about:
+    - Intro
+    - Ecogeographic rules
+    - Evidence & mechanisms
+        - intraspecific
+            - [taxa]
+        - interspecific
+            - [taxa]
+    - Concl
+or:
+    - Intro
+    - Ecogeographic rules
+    - Evidence & mechanisms
+        - endotherms
+        - ectotherms
+        - plants
+            - floral
+            - foliar
+    - Concl
+aot the current layout, which is:
+    - Intro
+    - Ecogeographic rules
+    - Evidence
+        - [taxa] * [levels]
+    - Mechanisms
+        - [taxa] * [levels]
+    - Concl
+-->
+
+<!--
+structure thought: a table?:
+Table 1. [...]
+                                            Taxon
+                    ----------------------------------------------------------------
+                    |  Endothermic animals   |  Ectothermic animals   |   Plants   |
+      --------------|------------------------|------------------------|-------------
+      | intrasp.    |                        |                        |            |
+Scale | intersp.    |                        |                        |            |
+      | assemblage  |                        |                        |            |
+      ------------------------------------------------------------------------------
+    
+-->
+
+\hfill
 
 - @VanLenning2004 -> evolutionary, not deterministic, pattern to coccolithophore pigment
-- Gloger vs anti-Gloger patterns [sensu @LevYadun2015], e.g "negative Gloger's rule" in invertebrates, e.g. Collembolates [@Rapoport1969]
-- Does the pattern exist? Is it observed in the first place? Dissect the observations at the intrasp., intersp., and assemblage levels
 - @Vanderwerf2012 looked at bird body size, bill size, and plumage in populations two closesly related birds across environmental gradients in Hawai'i. With regards to plumage, bird individuals (N.B. this is basically intraspecific-scale work! Not just b.c. the two species are closely related, but b.c. they only seem to actualy DO intrasp. comparisons anyway), Gloger's rule was supported, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries *and* steep environmental gradients.
-- @Bishop2016 ant *assemblage* work (ECTOTHERMAL):
-    - organismal darkenss as a modal pattern
-    - at low temperatures for thermoregulatory needs
-    - at higher temperatures for UV-B protection
-    - also darkness incr with smaller body size
-    - these patterns are evident at the *assemblage* level
-
-```
-        |\              
-        |  \           /
-pigment |   \         /
-        |    \_______/
-        |__________________
-            temperature
-(confounded w/ rainfall, sexual selection)
-```
-
 - Plants vs endothermic animals vs ectothermic animals (for animals see highlighted § in @James1991); UV-B protection (Gloger's rule) vs thermal hypothesis vs dessication hypothesis [@Pinkert2016]; Plants foliarly [sensu @LevYadun2007] vs florally [sensu @Koski2015]
 - Animal vs plant e.g. -> differences in meaning and interpretation. Also consider @Dominy2004 food colour and primates---could THIS connect to an environmental pattern in plant colour?
 
