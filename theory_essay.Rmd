@@ -67,51 +67,6 @@ header-includes:
 
 -->
 
-<!--
-restructuring possible? what about (= structure1):
-    - Intro
-    - Ecogeographic rules
-    - Evidence & mechanisms
-        - intraspecific level
-            - [taxa]
-        - interspecific level
-            - [taxa]
-    - Concl
-or (= structure2) (= this branch):
-    - Intro
-    - Ecogeographic rules
-    - Evidence & mechanisms
-        - endotherms
-        - ectotherms
-        - plants
-            - floral
-            - foliar
-        - [''] * [levels]
-    - Concl
-aot the current layout, which is (= structure0):
-    - Intro
-    - Ecogeographic rules
-    - Evidence
-        - [taxa] * [levels]
-    - Mechanisms
-        - [taxa] * [levels]
-    - Concl
--->
-
-<!--
-structure thought: a table?:
-Table 1. [...]
-                                            Taxon
-                    ----------------------------------------------------------------
-                    |  Endothermic animals   |  Ectothermic animals   |   Plants   |
-      --------------|------------------------|------------------------|-------------
-      | intrasp.    |                        |                        |            |
-Scale | intersp.    |                        |                        |            |
-      | assemblage  |                        |                        |            |
-      ------------------------------------------------------------------------------
-    
--->
-
 <!--First ya tell 'em what you're gonna tell 'em,-->
 
 \noindent Gloger's rule is an ecogeographic trend wherein organisms possess darker pigmentation in warmer, more humid environments [@Gloger1833; @Bishop2016; @LevYadun2015; @Gaston2008; @Roulin2015; @James1991]. @Gloger1833 first described this pattern in birds, and consequently the rule is largely treated as applying to endothermic animals [@Bishop2016<!--more refs here?-->]. However, evidence mounts for the pattern's applicability to ectotherms [e.g. @Rapoport1969; @Bishop2016], and plants [e.g. @LevYadun2007; @Koski2015]. Though, there may be different processes in different taxa that result in this pattern of organismal pigmentation across climatic gradients.
@@ -210,6 +165,7 @@ Distinguishing between whether organismal pigmentation follows the Gloger's rule
 
 - ...
 - @Millien2006 traits vary with geography, but also with global cliamte change!
+
 
 \hfill
 
