@@ -32,6 +32,7 @@ header-includes:
 \par \noindent \textbf{R. van Mazijk}
 \par \noindent VMZRUA001@myuct.ac.za
 \par \hfill
+
 \footnotesize
 \par \noindent `r format(Sys.time(), "%Y-%m-%d")`
 \par \noindent BSc Hons Biological Sciences
@@ -40,7 +41,6 @@ header-includes:
 \par \hfill
 
 \par \noindent \hrulefill
-
 \par \hfill
 
 \normalsize
@@ -148,6 +148,8 @@ The scale and levels of organisation at which Gloger's rule is an important cons
 
 <!--What could be causing this pattern, and why? Does it depend on the organism?-->
 
+### [Endotherms]
+
 As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too) Gloger noted bird plumage was darker in warmer, more humid areas [@Miksch2015; @burtt2004] than the plumage of conspecific birds in more arid areas [@burtt2004]. @Roulin2015 describe the logic of Gloger’s rule lucidly:
 
 \footnotesize
@@ -168,7 +170,15 @@ How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the r
 
 In interpecific comparisons of organismal darkness, Gloger's rule patterns have been observed in birds (...<!--search!!-->), mammals (e.g. primate coat colour [@Kamilar2011] ...<!--search!!-->), insects (e.g. ant assemblages [@Bishop2016]).
 
+### [Ectotherms]
+
 Concerning the applicability of Gloger's rule to ectotherms (viz. invertebrates), an "inverse" of Gloger's rule is often reported [@Rapoport1969; @LevYadun2015]. Indeed, the major mechanistic explanations for Gloger's rule in endotherms (below) can be reversed in ectotherms---should they deal with temperature---or outweighed by processes more important to ectotherm fitness in a given environment. Collembolates---interspecifically---follow this inverse Gloger's rule pattern [@Rapoport1969], such that the proportion of darker species is greater at higher latitudes. This is likely as they require greater degrees of melanism in order acrue heat from the environment more easily in these typically colder regions [@Rapoport1969]<!--move to mechanism section?-->. In the case of ant assemblages<!--elaborate on the importance of assemblage level patterns--> [@Bishop2016], a mixture of the class Gloger's rule and its inverse was demonstrated. Ant assemblages tended to be darkest in regions of high and low temperatures, and paler in colour in intermediate regions. At lower temperatures, ant assemblages tended to be darker for thermoregulatory reasons (as found with Collembolates [@Rapoport1969]), while in regions of higher temperature ant assemblages were more melanised also, in order to increase fitness in the high levels of ultraviolet radiation in warmer regions [@Bishop2016]. The resulting patterns [see Fig. 2b in @Bishop2016]<!--include this figure in my essay?--> were also interacting with ant assemblage mean body size, in that assemblages typified by smaller ants were also darker [see Fig. 2a in @Bishop2016]<!--include this figure in my essay?-->. This was concluded to be because smaller ectotherms more strongly require the thermoregulatory benefits of darker colouring, due to their relatively little therma inertia<!--ref!!-->.<!--plus go look @ Zeuss et al. 2014 & Schweiger & Beierkuhnlein 2015 (highlights in @Bishop2016)-->. 
+
+### [Plants]
+
+### [Across scales]
+
+### [Evolution-rant]
 
 Studies concerning Gloger's rule, and indeed most patterns in nature [@Lomolino2006], must ideally consider the historical, evolutionary context to organismal form---not just local deterministic mechanisms. Though, it must be noted, the extent to which historical and deterministic processes govern organismal pigmentation largely depends on the scale of investigation. Ontogenetic changes in pigementation are a-historical<!--ref-->. Intraspecific patterns may represent micro-evolutionary fitness benefits to certain genotypes<!--ref-->. Interspecific and assemblage patterns, however, would be indicative of more long-term, persistent selection pressures---e.g. ant species *assemblages* follow Gloger's rule in humid environments, implying that there may be long-standing, consistent strength to Gloger's rule in ants. In other words, enough evolutionary time must pass [...]<!--expand-->.
 
