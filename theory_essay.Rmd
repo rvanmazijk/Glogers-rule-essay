@@ -125,7 +125,7 @@ In interpecific comparisons of organismal darkness, Gloger's rule patterns have 
 Concerning the applicability of Gloger's rule to ectotherms (viz. invertebrates), an "inverse" of Gloger's rule is often reported [@Rapoport1969; @LevYadun2015]. Indeed, the major mechanistic explanations for Gloger's rule in endotherms (below) can be reversed in ectotherms---should they deal with temperature---or outweighed by processes more important to ectotherm fitness in a given environment. Collembolates---interspecifically---follow this inverse Gloger's rule pattern [@Rapoport1969], such that the proportion of darker species is greater at higher latitudes. This is likely as they require greater degrees of melanism in order acrue heat from the environment more easily in these typically colder regions [@Rapoport1969]<!--move to mechanism section?-->. In the case of ant assemblages<!--elaborate on the importance of assemblage level patterns--> [@Bishop2016], a mixture of the class Gloger's rule and its inverse was demonstrated. Ant assemblages tended to be darkest in regions of high and low temperatures, and paler in colour in intermediate regions. At lower temperatures, ant assemblages tended to be darker for thermoregulatory reasons (as found with Collembolates [@Rapoport1969]), while in regions of higher temperature ant assemblages were more melanised also, in order to increase fitness in the high levels of ultraviolet radiation in warmer regions [@Bishop2016]. The resulting patterns [see Fig. 2b in @Bishop2016]<!--include this figure in my essay?--> were also interacting with ant assemblage mean body size, in that assemblages typified by smaller ants were also darker [see Fig. 2a in @Bishop2016]<!--include this figure in my essay?-->. This was concluded to be because smaller ectotherms more strongly require the thermoregulatory benefits of darker colouring, due to their relatively little therma inertia<!--ref!!-->.<!--plus go look @ Zeuss et al. 2014 & Schweiger & Beierkuhnlein 2015 (highlights in @Bishop2016)-->. 
 
 <!--
-restructuring possible? what about:
+restructuring possible? what about (=structure1):
     - Intro
     - Ecogeographic rules
     - Evidence & mechanisms
@@ -134,7 +134,7 @@ restructuring possible? what about:
         - interspecific
             - [taxa]
     - Concl
-or:
+or (=structure2):
     - Intro
     - Ecogeographic rules
     - Evidence & mechanisms
@@ -144,7 +144,7 @@ or:
             - floral
             - foliar
     - Concl
-aot the current layout, which is:
+aot the current layout, which is (=structure0):
     - Intro
     - Ecogeographic rules
     - Evidence
