@@ -67,6 +67,50 @@ header-includes:
 
 -->
 
+<!--
+restructuring possible? what about (= structure1):
+    - Intro
+    - Ecogeographic rules
+    - Evidence & mechanisms
+        - intraspecific level
+            - [taxa]
+        - interspecific level
+            - [taxa]
+    - Concl
+or (= structure2) (= this branch):
+    - Intro
+    - Ecogeographic rules
+    - Evidence & mechanisms
+        - endotherms
+        - ectotherms
+        - plants
+            - floral
+            - foliar
+        - [''] * [levels]
+    - Concl
+aot the current layout, which is (= structure0):
+    - Intro
+    - Ecogeographic rules
+    - Evidence
+        - [taxa] * [levels]
+    - Mechanisms
+        - [taxa] * [levels]
+    - Concl
+-->
+
+<!--
+structure thought: a table?:
+Table 1. [...]
+                                            Taxon
+                    ----------------------------------------------------------------
+                    |  Endothermic animals   |  Ectothermic animals   |   Plants   |
+      --------------|------------------------|------------------------|-------------
+      | intrasp.    |                        |                        |            |
+Scale | intersp.    |                        |                        |            |
+      | assemblage  |                        |                        |            |
+      ------------------------------------------------------------------------------
+    
+-->
 
 <!--First ya tell 'em what you're gonna tell 'em,-->
 
@@ -98,9 +142,11 @@ At the interspecific level, the organismal pigmentation darkness values measured
 The scale and levels of organisation at which Gloger's rule is an important consideration when discussing case studies and evidence for the rule<!--below-->, as it evidently entails nuances to the questions<!--reword...plz-->. Note, Gloger's rule does not appear to concern ontogenetic colour change ---that is, colour change within the development and lifespan of an individual organism [@Booth1990]. This is because the primary aim of Gloger's rule is to demonstrate trends in the evolutionary and ecological significance of the environment to organismal colour, assuming organismal colour is relatively fixed through out an organism's lifespan.
 
 
-## Gloger's rule---evidence & examples
+## Gloger's rule---evidence & explanations
 
 <!--Does the pattern exist? Is it observed in the first place? Dissect the observations at the intrasp., intersp., and assemblage levels-->
+
+<!--What could be causing this pattern, and why? Does it depend on the organism?-->
 
 As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too) Gloger noted bird plumage was darker in warmer, more humid areas [@Miksch2015; @burtt2004] than the plumage of conspecific birds in more arid areas [@burtt2004]. @Roulin2015 describe the logic of Gloger’s rule lucidly:
 
@@ -124,49 +170,11 @@ In interpecific comparisons of organismal darkness, Gloger's rule patterns have 
 
 Concerning the applicability of Gloger's rule to ectotherms (viz. invertebrates), an "inverse" of Gloger's rule is often reported [@Rapoport1969; @LevYadun2015]. Indeed, the major mechanistic explanations for Gloger's rule in endotherms (below) can be reversed in ectotherms---should they deal with temperature---or outweighed by processes more important to ectotherm fitness in a given environment. Collembolates---interspecifically---follow this inverse Gloger's rule pattern [@Rapoport1969], such that the proportion of darker species is greater at higher latitudes. This is likely as they require greater degrees of melanism in order acrue heat from the environment more easily in these typically colder regions [@Rapoport1969]<!--move to mechanism section?-->. In the case of ant assemblages<!--elaborate on the importance of assemblage level patterns--> [@Bishop2016], a mixture of the class Gloger's rule and its inverse was demonstrated. Ant assemblages tended to be darkest in regions of high and low temperatures, and paler in colour in intermediate regions. At lower temperatures, ant assemblages tended to be darker for thermoregulatory reasons (as found with Collembolates [@Rapoport1969]), while in regions of higher temperature ant assemblages were more melanised also, in order to increase fitness in the high levels of ultraviolet radiation in warmer regions [@Bishop2016]. The resulting patterns [see Fig. 2b in @Bishop2016]<!--include this figure in my essay?--> were also interacting with ant assemblage mean body size, in that assemblages typified by smaller ants were also darker [see Fig. 2a in @Bishop2016]<!--include this figure in my essay?-->. This was concluded to be because smaller ectotherms more strongly require the thermoregulatory benefits of darker colouring, due to their relatively little therma inertia<!--ref!!-->.<!--plus go look @ Zeuss et al. 2014 & Schweiger & Beierkuhnlein 2015 (highlights in @Bishop2016)-->. 
 
-<!--
-restructuring possible? what about (=structure1):
-    - Intro
-    - Ecogeographic rules
-    - Evidence & mechanisms
-        - intraspecific
-            - [taxa]
-        - interspecific
-            - [taxa]
-    - Concl
-or (=structure2):
-    - Intro
-    - Ecogeographic rules
-    - Evidence & mechanisms
-        - endotherms
-        - ectotherms
-        - plants
-            - floral
-            - foliar
-    - Concl
-aot the current layout, which is (=structure0):
-    - Intro
-    - Ecogeographic rules
-    - Evidence
-        - [taxa] * [levels]
-    - Mechanisms
-        - [taxa] * [levels]
-    - Concl
--->
+Studies concerning Gloger's rule, and indeed most patterns in nature [@Lomolino2006], must ideally consider the historical, evolutionary context to organismal form---not just local deterministic mechanisms. Though, it must be noted, the extent to which historical and deterministic processes govern organismal pigmentation largely depends on the scale of investigation. Ontogenetic changes in pigementation are a-historical<!--ref-->. Intraspecific patterns may represent micro-evolutionary fitness benefits to certain genotypes<!--ref-->. Interspecific and assemblage patterns, however, would be indicative of more long-term, persistent selection pressures---e.g. ant species *assemblages* follow Gloger's rule in humid environments, implying that there may be long-standing, consistent strength to Gloger's rule in ants. In other words, enough evolutionary time must pass [...]<!--expand-->.
 
-<!--
-structure thought: a table?:
-Table 1. [...]
-                                            Taxon
-                    ----------------------------------------------------------------
-                    |  Endothermic animals   |  Ectothermic animals   |   Plants   |
-      --------------|------------------------|------------------------|-------------
-      | intrasp.    |                        |                        |            |
-Scale | intersp.    |                        |                        |            |
-      | assemblage  |                        |                        |            |
-      ------------------------------------------------------------------------------
-    
--->
+Conversely, with respect to interspecific and community ecogeographic patterns, environmental filtering could conceivably produce trait patterns over shorter, ecological time-scales. In this case, if the traits in taxa that follow an ecogeographic rule (e.g. Gloger's rule) *do* confer a fitness benefit as the rule would predict, they would not be adaptations (sensu Baum, Mayr, [...]<!--get refs!; expand?-->), having evolved elsewhere.
+
+Distinguishing between whether organismal pigmentation follows the Gloger's rule pattern (if and when it does) is governed by deterministic (i.e. environmental filtering) or historical (i.e. adaptation) processes would be insightful. Research concerning this distinction would further allow one to ascertain the degree to which Gloger's rule is a consequence of multiple processes (at multiple spatio-temporal scales), and the number and relative strength of processes that partake therein. In such a case that these patterns have, say, historical drivers in one system at one scale, and deterministic drivers in another, this would emphasise the complexity of ecogeographic patterns. It would also mirror the notion @Olalla2011 puts forward, wherein correlative generalisations, such as Gloger's rule, need not encapsulate one, if any, mechanisms. Though, it is unlikely that there is *no* mechanisms behind Gloger's rule patterns. Instead, it is interesting and insightful that multiple mechanisms, combined or in isolation, govern these patterns.
 
 \hfill
 
@@ -174,18 +182,6 @@ Scale | intersp.    |                        |                        |         
 - @Vanderwerf2012 looked at bird body size, bill size, and plumage in populations two closesly related birds across environmental gradients in Hawai'i. With regards to plumage, bird individuals (N.B. this is basically intraspecific-scale work! Not just b.c. the two species are closely related, but b.c. they only seem to actualy DO intrasp. comparisons anyway), Gloger's rule was supported, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries *and* steep environmental gradients.
 - Plants vs endothermic animals vs ectothermic animals (for animals see highlighted § in @James1991); UV-B protection (Gloger's rule) vs thermal hypothesis vs dessication hypothesis [@Pinkert2016]; Plants foliarly [sensu @LevYadun2007] vs florally [sensu @Koski2015]
 - Animal vs plant e.g. -> differences in meaning and interpretation. Also consider @Dominy2004 food colour and primates---could THIS connect to an environmental pattern in plant colour?
-
-
-## Mechanisms behind the pattern
-
-<!--What could be causing this pattern, and why? Does it depend on the organism?-->
-
-Studies concerning Gloger's rule, and indeed most patterns in nature [@Lomolino2006], must ideally consider the historical, evolutionary context to organismal form---not just local deterministic mechanisms. Though, it must be noted, the extent to which historical and deterministic processes govern organismal pigmentation largely depends on the scale of investigation. Ontogenetic changes in pigementation are a-historical<!--ref-->. Intraspecific patterns may represent micro-evolutionary fitness benefits to certain genotypes<!--ref-->. Interspecific and assemblage patterns, however, would be indicative of more long-term, persistent selection pressures---e.g. ant species *assemblages* follow Gloger's rule in humid environments, implying that there may be long-standing, consistent strength to Gloger's rule in ants. In other words, enough evolutionary time must pass [...]<!--expand-->.
-
-Conversely, with respect to interspecific and community ecogeographic patterns, environmental filtering could conceivably produce trait patterns over shorter, ecological time-scales. In this case, if the traits in taxa that follow an ecogeographic rule (e.g. Gloger's rule) *do* confer a fitness benefit as the rule would predict, they would not be adaptations (sensu Baum, Mayr, [...]<!--get refs!; expand?-->), having evolved elsewhere.
-
-Distinguishing between whether organismal pigmentation follows the Gloger's rule pattern (if and when it does) is governed by deterministic (i.e. environmental filtering) or historical (i.e. adaptation) processes would be insightful. Research concerning this distinction would further allow one to ascertain the degree to which Gloger's rule is a consequence of multiple processes (at multiple spatio-temporal scales), and the number and relative strength of processes that partake therein. In such a case that these patterns have, say, historical drivers in one system at one scale, and deterministic drivers in another, this would emphasise the complexity of ecogeographic patterns. It would also mirror the notion @Olalla2011 puts forward, wherein correlative generalisations, such as Gloger's rule, need not encapsulate one, if any, mechanisms. Though, it is unlikely that there is *no* mechanisms behind Gloger's rule patterns. Instead, it is interesting and insightful that multiple mechanisms, combined or in isolation, govern these patterns.
-
 - @Kamilar2011 -> little mechanistic work in this paper though! They speculate about 1) background matching, 2) anti-bacterial stuff, and 3) maybe thermoregulation (#FutureStudies). Unlikely to be UV, because primates live in trees! (not even in the upper-canopy, where UV is strong---primates do not spend tonnes of time up there)
 - @burtt2004 found that dark pluamge is resistant to bacterial degradation (~ pigments), a common problem in humid climes; methods: measure intrasp. ∆colour vs bacterial activity.
 - cf @Koski2015 -> UV role (in plants)
