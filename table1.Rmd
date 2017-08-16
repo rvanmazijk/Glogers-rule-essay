@@ -14,27 +14,10 @@ header-includes:
   - \renewcommand{\baselinestretch}{1}
 ---
 
-<!--Markdown tables are very simplistic (no support for the "Taxon" multicol!)
-|             | Taxon                                                        |
-|-------------|------------------------|------------------------|------------|
-|Scale        | Endothermic animals    | Ectothermic animals    | Plants     |
-|-------------|------------------------|------------------------|------------|
-| intrasp.    |                        |                        |            |
-| intersp.    |                        |                        |            |
-| assemblage  |                        |                        |            |
-Table. [...]
--->
+| Scale         | Endotherms | Ectotherms | Plants |
+|---------------|------------|------------|--------|
+| Intraspecific | +          | -          | +      |
+| Interspecific | +          | ?          | ?      |
+| Assemblage    | +          | +/-        | ?      |
 
-<!--LaTeX tables are very complicated... But I have to use them here, b.c. I'm making a PDF-->
-\centering
-\begin{tabular}{p{2.5cm}|p{3cm}p{3cm}p{3cm}}
-    \hline
-    Scale          & \multicolumn{3}{c}{Taxon}              \\
-    \hline  
-                   & Endotherms   & Ectotherms   & Plants   \\
-    \hline      
-    Instraspecific &              &              &          \\
-    Interspecific  &              &              &          \\
-    Assemblage     &              &              &          \\
-    \hline
-\end{tabular}
+Table: Summary of patterns in organismal darkness (for three different practical groups: Endotherms, ectotherms, and plants) across geographical humidity gradients for comparisons at three different scales of biological organisation (Scales): within species, between species, and between communities. See text for more details. The symbols in each cell denote the applicability and/or state of knowledge of Gloger's rule for that cell's scale and organismal group. +, Gloger's rule observed; -, inverse Gloger's rule observed; +/-, Gloger's rule observed partially, with opposite patterns in certain cases; ?, unstudied.
