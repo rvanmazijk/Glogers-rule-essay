@@ -126,8 +126,7 @@ Gloger vs anti-Gloger patterns [sensu @LevYadun2015], e.g "negative Gloger's rul
 
 Does the pattern exist? Is it observed in the first place? Dissect the observations at the intrasp., intersp., and assemblage levels
 
-
-@Vanderwerf2012 looked at bird body size, bill size, and plumage in populations two closesly related birds across environmental gradients in Hawai'i. With regards to plumage, bird individuals (N.B. this is basically intraspecific-scale work!), Gloger's rule was supported, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries *and* steep environmental gradients.
+@Vanderwerf2012 looked at bird body size, bill size, and plumage in populations two closesly related birds across environmental gradients in Hawai'i. With regards to plumage, bird individuals (N.B. this is basically intraspecific-scale work! Not just b.c. the two species are closely related, but b.c. they only seem to actualy DO intrasp. comparisons anyway), Gloger's rule was supported, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries *and* steep environmental gradients.
 
 @Bishop2016 ant *assemblage* work (ECTOTHERMAL):
 
