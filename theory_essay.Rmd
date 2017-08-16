@@ -30,7 +30,7 @@ header-includes:
 \end{wrapfigure}
 
 \par \noindent \textbf{R. van Mazijk}
-\par \noindent <VMZRUA001@myuct.ac.za>
+\par \noindent VMZRUA001@myuct.ac.za
 \par \hfill
 \footnotesize
 \par \noindent `r format(Sys.time(), "%Y-%m-%d")`
@@ -91,7 +91,7 @@ It is important to consider what is mean by the term "rule" in biology. There ar
 
 \hfill
 
-\noindent Ecogeographic rules operate across various levels of biological organisation<!--refs!!-->.@Gaston2008 differentiate between *intra*specific, *inter*specific, and *assemblage* patterns in organismal traits across environmental gradients. @Bishop2016, for example, describe community trait averages in order to describe the extent of Gloger's rule<!--and the other one-->in ants.
+\noindent Ecogeographic rules operate across various levels of biological organisation<!--refs!!-->. @Gaston2008 differentiate between *intra*specific, *inter*specific, and *assemblage* patterns in organismal traits across environmental gradients. @Bishop2016, for example, describe community trait averages in order to describe the extent of Gloger's rule<!--and the other one-->in ants.
 
 @Millien2006 discuss ecotypic (i.e. intraspecific, i.e. between populations) variation in terms of ecogeographic rules, too.
 
