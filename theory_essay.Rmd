@@ -9,6 +9,7 @@ fontsize: 11pt
 geometry: margin = 0.5in, a4paper
 mainfont: Calibri
 csl: harvard-university-of-cape-town-rvm_2017-08-15.csl  # version w/o comma in in-text citations
+#csl: nature.csl
 bibliography: Hons_theory_essay.bib
 header-includes:
   - \usepackage{lipsum}
@@ -70,7 +71,7 @@ header-includes:
 
 <!--First ya tell 'em what you're gonna tell 'em,-->
 
-\noindent Gloger's rule is an ecogeographic trend wherein organisms possess darker pigmentation in warmer, more humid environments [@Gloger1833; @Bishop2016; @LevYadun2015; @Gaston2008; @Roulin2015]. @Gloger1833 first described this pattern in birds, and consequently the rule is largely treated as applying to endothermic animals [@Bishop2016<!--more refs here?-->]. However, evidence mounts for the pattern's applicability to ectotherms [e.g. @Rapoport1969; @Bishop2016], and plants [e.g. @LevYadun2007; @Koski2015]. Though, there may be different processes in different taxa that result in this pattern of organismal pigmentation across climatic gradients.
+\noindent Gloger's rule is an ecogeographic trend wherein organisms possess darker pigmentation in warmer, more humid environments [@Gloger1833; @Bishop2016; @LevYadun2015; @Gaston2008; @Roulin2015; @James1991]. @Gloger1833 first described this pattern in birds, and consequently the rule is largely treated as applying to endothermic animals [@Bishop2016<!--more refs here?-->]. However, evidence mounts for the pattern's applicability to ectotherms [e.g. @Rapoport1969; @Bishop2016], and plants [e.g. @LevYadun2007; @Koski2015]. Though, there may be different processes in different taxa that result in this pattern of organismal pigmentation across climatic gradients.
 
 Herein, I discuss the treatment of ecogeographic rules in ecological and evolutionary science, and within this context discuss the degree to which Gloger's rule has merit as a genuine pattern in nature. I discuss insights into possible mechanisms that generate the Gloger's rule pattern, and how these vary between taxa, and across levels of biological organisation. I argue that there is sufficient<!--/insufficient--> evidence to support Gloger's rule as a useful and true generalisation.
 
@@ -100,7 +101,7 @@ The scale and levels of organisation at which Gloger's rule is an important cons
 
 ## Gloger's rule---evidence & examples
 
-As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too) Gloger noted bird plumage was darker in warmer, more humidi areas [@Miksch2015; @burtt2004]. @Roulin2015 describe the logic of Gloger’s rule lucidly:
+As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too) Gloger noted bird plumage was darker in warmer, more humid areas [@Miksch2015; @burtt2004] than the plumage of conspecific birds in more arid areas [@burtt2004]. @Roulin2015 describe the logic of Gloger’s rule lucidly:
 
 \footnotesize
 
@@ -114,13 +115,12 @@ As stated above, Gloger's rule stems from his observations of bird plumage darkn
 
 @Millien2006 discuss ecotypic (i.e. intraspecific, i.e. between populations) variation in terms of ecogeographic rules, too.
 
-
 Manifestations of Gloger's rules across various scales and levels of organisation [...] intrasp. Gloger's rule manifestations (= "ecotypic", sensu @Millien2006) vs intersp./community level manifestations [@LevYadun2015]
 
+How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the rule, or patterns similar to it. First, there is well studied evidence of Gloger's rule at the intraspecific level in birds, namely ...
 
-### Evidence & examples
+- Song Sparrows (*Melospiza melodia*) in North America [@burtt2004]
 
-<!--Is the rule founded in empirical observation? How ubiquitous is it?-->
 
 Gloger vs anti-Gloger patterns [sensu @LevYadun2015], e.g "negative Gloger's rule" in invertebrates, e.g. Collembolates [@Rapoport1969]
 
@@ -148,7 +148,7 @@ pigment |   \         /
 (confounded w/ rainfall, sexual selection)
 ```
 
-Plants vs endothermic animals vs ectothermic animals; UV-B protection (Gloger's rule) vs thermal hypothesis vs dessication hypothesis [@Pinkert2016]; Plants foliarly [sensu @LevYadun2007] vs florally [sensu @Koski2015]
+Plants vs endothermic animals vs ectothermic animals (for animals see highlighted § in @James1991); UV-B protection (Gloger's rule) vs thermal hypothesis vs dessication hypothesis [@Pinkert2016]; Plants foliarly [sensu @LevYadun2007] vs florally [sensu @Koski2015]
 
 Animal vs plant e.g. -> differences in meaning and interpretation. Also consider @Dominy2004 food colour and primates---could THIS connect to an environmental pattern in plant colour?
 
