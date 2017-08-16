@@ -110,13 +110,13 @@ As stated above, Gloger's rule stems from his observations of bird plumage darkn
 
 \noindent They investigate animal fitness in warm, humid environments as conferred via alternative phenotypic adaptations (viz. in owls)<!--include detail below-->. The implication of *fitness* in a given habitat allows one to see the *evolutionary* aspect to Gloger's *eco*geographic rule (a sentiment @Lomolino2006 highlights).
 
-<!--His contemporaries' thoughts--> Gloger's rule has garnered research interest and support over the years<!--is this true? ref!-->.<!--Expand on the rule's study through history (i.e. since 1833)--> Like many other other ecogeographic rules, Gloger's rule has gained renewed research interest in the last 10<!--??--> years<!--ref!!!!!!! Which one was it???-->.
+<!--His contemporaries' thoughts: "Gloger's rule has garnered research interest and support over the years" <- is this true? ref!; Expand on the rule's study through history (i.e. since 1833)-->Like many other other ecogeographic rules, Gloger's rule has gained renewed research interest in the 21st century [@Lomolino2006].
 
 @Millien2006 discuss ecotypic (i.e. intraspecific, i.e. between populations) variation in terms of ecogeographic rules, too.
 
-Studies concerning the rule, and indeed most patterns in nature [@Lomolino2006], must ideally consider the historical, evolutionary context to organismal form---not just local deterministic mechanisms.
+Studies concerning Gloger's rule, and indeed most patterns in nature [@Lomolino2006], must ideally consider the historical, evolutionary context to organismal form---not just local deterministic mechanisms.
 
-<!--Move this section to § on mechansism?-->
+<!--Move this to § on mechansism?-->
 
 Though, it must be noted, the extent to which historical and deterministic processes govern organismal pigmentation largely depends on the scale of investigation. Ontogenetic changes in pigementation are a-historical<!--ref-->. Intraspecific patterns may represent micro-evolutionary fitness benefits to certain genotypes<!--ref-->. Interspecific and assemblage patterns, however, would be indicative of more long-term, persistent selection pressures---e.g. ant species *assemblages* follow Gloger's rule in humid environments, implying that there may be long-standing, consistent strength to Gloger's rule in ants. In other words, enough evolutionary time must pass [...]<!--expand-->.
 
