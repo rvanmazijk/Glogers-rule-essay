@@ -124,17 +124,16 @@ As stated above, Gloger's rule stems from his observations of bird plumage darkn
 
 There is well studied evidence of Gloger's rule at the intraspecific level in birds. E.g. Song Sparrows (*Melospiza melodia*) in North America [@burtt2004], North American Barn Owls (*Tyto alba pratincola*) [@Roulin2015], Hawaii Elepaios (*Chasiempis sandwichensis*) [@Vanderwerf2012], Oahu Elepaios (*C. ibidis*) (in the same study by @Vanderwerf2012), and ...<!--more!!-->.
 
-Mechanistically, Song Sparrows in humid contexts appear to be under greater pressure from feather-degrading bacteria [@burtt2004], and consequently darker-morphs are more fit there, as melanin increases the resistance of feathers to bacteria. However, as is discussed by @Roulin2015 concerning Barn Owls, there are multiple seletive pressures that relate to pigmentation, specifically melanin-based darkness. Indeed, @burtt2004 describe their findings as "simply another pressure that selects for dark feathers", and outline the myriad other causes [see Table 2 in @burtt2004]. It is interesting, though, that many of these pressures can align to produce patterns predicted by Gloger's rule. For example, background matching<!--ref-->, thermoregulation, and indeed resistance to bacterial degradation. These mechanisms [Table 2 in @burtt2004] are reported to be responsible for interspecific differences in plumage darkness, but are easily extensible to intraspecific differences in evolutionary terms.
+Mechanistically, Song Sparrows in humid contexts appear to be under greater pressure from feather-degrading bacteria [@burtt2004], and consequently darker-morphs are more fit there, as melanin increases the resistance of feathers to bacteria. However, as is discussed by @Roulin2015 concerning Barn Owls, there are multiple seletive pressures that relate to pigmentation, specifically melanin-based darkness. Indeed, @burtt2004 describe their findings as "simply another pressure that selects for dark feathers", and outline the myriad other causes [see Table 2 in @burtt2004]. It is interesting, though, that many of these pressures can align to produce patterns predicted by Gloger's rule---e.g. background matching<!--ref-->, thermoregulation, and indeed resistance to bacterial degradation. These mechanisms [Table 2 in @burtt2004] are reported to be responsible for interspecific differences in plumage darkness, but are easily extensible to intraspecific differences in evolutionary terms.
 
-@Vanderwerf2012 looked at plumage, among other things, within populations of two closesly related birds across environmental gradients in Hawaii. In this regard, Gloger's rule was supported, such that pigmentation was darker for birds of either species in areas of high rainfall, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries and steep environmental gradients). @Vanderwerf2012 eliminated thermoregulatory
+@Vanderwerf2012 looked at plumage, among other things, within populations of two closesly related birds across environmental gradients in Hawaii. In this regard, Gloger's rule was supported, such that pigmentation was darker for birds of either species in areas of high rainfall, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries and steep environmental gradients). @Vanderwerf2012 eliminated thermoregulatory and bachground-matching mechanisms for the case of Elepaios (because of the observed of independence of Elepaio plumage on temperature, and little differential predation upon Elepaios along mositure or temperature gradients, respectively). 
 
-@Vanderwerf2012 background matching maybe too??
+In interpecific comparisons of organismal darkness, Gloger's rule patterns have been observed in birds (...<!--search!!-->),
 
 Gloger's rule has also been documented within mammal species. E.g. house mice (*Mus musculus*) in Asia [@Lai2008]<!--more!!-->.
 
 Notably, extending the generality of the rule [@Koski2015], the plant species *Argentina anserina* has been found to follow the rule in its floral pigmentation (in ultraviolet wavelengths) [@Koski2015], having stronger "bullseye" markings when occuring nearer the equator.
 
-In interpecific comparisons of organismal darkness, Gloger's rule patterns have been observed in birds (...<!--search!!-->),
 
 mammals (e.g. primate coat colour [@Kamilar2011] ...<!--search!!-->),
 
@@ -149,6 +148,10 @@ mammals (e.g. primate coat colour [@Kamilar2011] ...<!--search!!-->),
 Animal vs plant e.g. -> differences in meaning and interpretation.
 
 Also consider @Dominy2004 food colour and primates---could THIS connect to an environmental pattern in plant colour?
+
+...
+
+These cases exemplify the way in which different mechanisms and the combinations and varying strengths thereof can all produce patterns in accrodance with Gloger's rule. Each specific case need not display a Gloger's rule pattern as a consequence of all, nor some specific process [@Olalla2011]. Thus, the extent of a Gloger's rule pattern seems to be that which arises due to multiple processes.
 
 ### [Ectotherms]
 
