@@ -122,11 +122,21 @@ As stated above, Gloger's rule stems from his observations of bird plumage darkn
 
 \noindent They investigate animal fitness in warm, humid environments as conferred via alternative phenotypic adaptations (viz. in owls)<!--include detail below-->. The implication of *fitness* in a given habitat allows one to see the *evolutionary* aspect to Gloger's *eco*geographic rule (a sentiment @Lomolino2006 highlights)<!--move this remark to the § on evolution? or maybe just refer to it again because it's NB!-->.
 
-There is well studied evidence of Gloger's rule at the intraspecific level in birds. E.g. Song Sparrows (*Melospiza melodia*) in North America [@burtt2004], North American Barn Owls (*Tyto alba pratincola*) [@Roulin2015], Hawaii Elepaios (*Chasiempis sandwichensis*) [@Vanderwerf2012], Oahu Elepaios (*C. ibidis*) (in the same study by @Vanderwerf2012), and ...<!--more!!-->. Gloger's rule has also been documented within mammal species. E.g. house mice (*Mus musculus*) in Asia [@Lai2008]<!--more!!-->.<!--Insect + more examples!!--> Notably, extending the generality of the rule [@Koski2015], the plant species *Argentina anserina* has been found to follow the rule in its floral pigmentation (in ultraviolet wavelengths) [@Koski2015], having stronger "bullseye" markings when occuring nearer the equator.
+There is well studied evidence of Gloger's rule at the intraspecific level in birds. E.g. Song Sparrows (*Melospiza melodia*) in North America [@burtt2004], North American Barn Owls (*Tyto alba pratincola*) [@Roulin2015], Hawaii Elepaios (*Chasiempis sandwichensis*) [@Vanderwerf2012], Oahu Elepaios (*C. ibidis*) (in the same study by @Vanderwerf2012), and ...<!--more!!-->.
 
-In interpecific comparisons of organismal darkness, Gloger's rule patterns have been observed in birds (...<!--search!!-->), mammals (e.g. primate coat colour [@Kamilar2011] ...<!--search!!-->), insects (e.g. ant assemblages [@Bishop2016]).
+Gloger's rule has also been documented within mammal species. E.g. house mice (*Mus musculus*) in Asia [@Lai2008]<!--more!!-->.
 
-@Vanderwerf2012 looked at bird body size, bill size, and plumage in populations two closesly related birds across environmental gradients in Hawai'i. With regards to plumage, bird individuals (N.B. this is basically intraspecific-scale work! Not just b.c. the two species are closely related, but b.c. they only seem to actualy DO intrasp. comparisons anyway), Gloger's rule was supported, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries *and* steep environmental gradients. @Vanderwerf2012 background matching maybe too??
+<!--Insect + more examples!!-->
+
+Notably, extending the generality of the rule [@Koski2015], the plant species *Argentina anserina* has been found to follow the rule in its floral pigmentation (in ultraviolet wavelengths) [@Koski2015], having stronger "bullseye" markings when occuring nearer the equator.
+
+In interpecific comparisons of organismal darkness, Gloger's rule patterns have been observed in birds (...<!--search!!-->),
+
+mammals (e.g. primate coat colour [@Kamilar2011] ...<!--search!!-->),
+
+insects (e.g. ant assemblages [@Bishop2016]).
+
+@Vanderwerf2012 looked at bird body size, bill size, and plumage in populations of two closesly related birds across environmental gradients in Hawaii. With regards to plumage, bird individuals (N.B. this is basically intraspecific-scale work! Not just b.c. the two species are closely related, but b.c. they only seem to actualy DO intrasp. comparisons anyway), Gloger's rule was supported, and with "smoothly clinal distributions" [sic] (as a function of thew few dispersal barries *and* steep environmental gradients. @Vanderwerf2012 background matching maybe too??
 
 @burtt2004 found that dark pluamge is resistant to bacterial degradation (~ pigments), a common problem in humid climes; methods: measure intrasp. ∆colour vs bacterial activity.
 
