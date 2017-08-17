@@ -69,24 +69,22 @@ header-includes:
 
 <!--First ya tell 'em what you're gonna tell 'em,-->
 
-\noindent Gloger's rule is an ecogeographic trend wherein organisms possess darker pigmentation in warmer, more humid environments [@Gloger1833; @Bishop2016; @LevYadun2015; @Gaston2008; @Roulin2015; @James1991]. @Gloger1833 first described this pattern in birds, and consequently the rule is largely treated as applying to endothermic animals [@Bishop2016<!--more refs here?-->]. However, evidence mounts for the pattern's applicability to ectotherms [e.g. @Rapoport1969; @Bishop2016], and plants [e.g. @LevYadun2007; @Koski2015]. Though, there may be different processes in different taxa that result in this pattern of organismal pigmentation across climatic gradients.
+\noindent Gloger's rule is an ecogeographic trend wherein organisms possess darker pigmentation in warmer, more humid environments [@Gloger1833; @Bishop2016; @LevYadun2015; @Gaston2008; @Roulin2015; @James1991]. @Gloger1833 first described this pattern in birds, and consequently the rule is largely treated as applying to endothermic animals [@Bishop2016<!--more refs here?-->]. However, evidence mounts for the pattern's applicability to ectotherms [e.g. @Rapoport1969; @Bishop2016], and plants [e.g. @LevYadun2007; @Koski2015]. Though, there may be different processes in different taxa that result in this pattern (and others) of organismal pigmentation across climatic gradients.
 
-Herein, I discuss the treatment of ecogeographic rules in ecological and evolutionary science, and within this context discuss the degree to which Gloger's rule has merit as a genuine pattern in nature. I discuss insights into possible mechanisms that generate the Gloger's rule pattern, and how these vary between taxa, and across levels of biological organisation. I argue that there is sufficient<!--/insufficient--> evidence to support Gloger's rule as a useful and true generalisation.
+Herein, I discuss the treatment of ecogeographic rules in ecological and evolutionary science, and within this context discuss the degree to which Gloger's rule is a genuine pattern in nature. I discuss insights into possible mechanisms that generate the Gloger's rule pattern, and how these vary between taxa, and across levels of biological organisation. I argue that there is sufficient<!--/insufficient--> evidence to support Gloger's rule as a useful and true generalisation.
 
 
 <!--Then ya tell 'em,-->
 
 ## Ecogeographic & biogeographic "rules"
 
-The theory vs empiricism of "rules" ...
+It is important to consider what is meant by the term "rule" in biology. There are many of biogeographic and ecogeographic patterns that are referred to as rules, e.g. Bergmann's rule, Allen's rule,<!--expand; explain; refs--> etc. Gloger's rule, the focus here, is also often grouped with these. Like many other other ecogeographic rules, Gloger's rule has gained renewed research interest in the 21st century [@Lomolino2006]
 
-It is important to consider what is meant by the term "rule" in biology. There are many of biogeographic and ecogeographic patterns that are referred to as rules, e.g. Bergmann's rule, Allen's rule,<!--expand; explain; refs--> etc. Gloger's rule, the focus here, is also often grouped with these.
+<!--His contemporaries' thoughts: "Gloger's rule has garnered research interest and support over the years" <- is this true? ref!; Expand on the rule's study through history (i.e. since 1833)-->
 
-@Lomolino2006 outline the study of observed patterns or trends of organismal traits across geographical space with ecogeographic rules (i.e. observations<!--elaborate on the nature of "rules"-->). They highlight examples of *patterns* at broad ecological scales as consequence of *processes* at a range of scales. Indeed, the patterns themselves are also manifest at a variety of scales and levels of organisation<!--(namely ontogenetic, intraspecific, interspecific, and assemblage)-->. As such, @Lomolino2006 notes, underlying causal mechanisms behind these patterns are difficult to ascertain.
+@Lomolino2006 outline the study of observed patterns or trends of organismal traits across geographical space with ecogeographic rules (i.e. observations<!--elaborate on the nature of "rules"-->). They highlight examples of *patterns* at broad ecological scales as consequence of *processes* at a range of scales. Indeed, the patterns themselves are also manifest at a variety of scales and levels of organisation<!--(namely ontogenetic, intraspecific, interspecific, and assemblage)-->. As such, @Lomolino2006 notes, underlying causal mechanisms behind these patterns are difficult to ascertain. Furthermore, due to the tendency of ecological relationships to be non-linear, studies of these ecogeographic patterns needs to be assisted and informed by theory [@Lomolino2006]<!--varying scales, ...; and also the *evolutionary* side to *eco*geographic rules; expand; read more-->.
 
-@Lomolino2006 also talk about theory vs empirical evidence, and varying scales, and also the *evolutionary* side to *eco*geographic rules<!--expand; read more-->.
-
-@Olalla2011 discusses approaches to studying rules too, with focus on Bergmann's rule<!--ref?-->. @Olalla2011 advocates a pluralist approach, wherein the manifestations of ecogeographical rules at multiple scales and levels of biological organisation are considered<!--see below-->. He also outlines that "laws" and "rules" in ecology, and in science generally, need not *always* contain mechanistic statements, and need not be without exception, as they are "correlative generalisations". Though, mechanistic understandings of the processes that generate patterns is desirable, and indeed often the aim of research, this does not imply that correlative ecogeographic rules are not useful intrinsically. Not least, these rules are often the starting point of research. Thus, these rules represent interesting observed patterns that can motivate research, *and* useful generalisations that can be employed in other work.
+@Olalla2011 discusses approaches to studying rules too, with focus on Bergmann's rule. @Olalla2011 advocates a pluralist approach, wherein the manifestations of ecogeographical rules at multiple scales and levels of biological organisation are considered<!--see below-->. He also outlines that "laws" and "rules" in ecology, and in science generally, need not *always* contain mechanistic statements, and need not be without exception, as they are "correlative generalisations". Though, mechanistic understandings of the processes that generate patterns is desirable, and indeed often the aim of research, this does not imply that correlative ecogeographic rules are not useful intrinsically. Not least, these rules are often the starting point of research. Thus, these rules represent interesting observed patterns that can motivate research, *and* useful generalisations that can be employed in other work.
 
 \hfill
 
@@ -103,7 +101,7 @@ The scale and levels of organisation at which Gloger's rule is an important cons
 
 <!--What could be causing this pattern, and why? Does it depend on the organism?-->
 
-How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the rule, or patterns similar to it.
+How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the rule, or patterns similar to it, for three major groups of organism: endothermic animals, ectothermic animals, and plants (Table 1). I will then discuss these cases with regard to the level of biological organisation at which they were observed (Table 1).
 
 <!--
 - Connect evidence above to mechanisms described in their respective papers (if applicable)
@@ -122,9 +120,7 @@ As stated above, Gloger's rule stems from his observations of bird plumage darkn
 
 \normalsize
 
-\noindent They investigate animal fitness in warm, humid environments as conferred via alternative phenotypic adaptations (viz. in owls)<!--include detail below-->. The implication of *fitness* in a given habitat allows one to see the *evolutionary* aspect to Gloger's *eco*geographic rule (a sentiment @Lomolino2006 highlights)<!--move this remark to the § on evolution?-->.
-
-<!--His contemporaries' thoughts: "Gloger's rule has garnered research interest and support over the years" <- is this true? ref!; Expand on the rule's study through history (i.e. since 1833)-->Like many other other ecogeographic rules, Gloger's rule has gained renewed research interest in the 21st century [@Lomolino2006].
+\noindent They investigate animal fitness in warm, humid environments as conferred via alternative phenotypic adaptations (viz. in owls)<!--include detail below-->. The implication of *fitness* in a given habitat allows one to see the *evolutionary* aspect to Gloger's *eco*geographic rule (a sentiment @Lomolino2006 highlights)<!--move this remark to the § on evolution? or maybe just refer to it again because it's NB!-->.
 
 There is well studied evidence of Gloger's rule at the intraspecific level in birds. E.g. Song Sparrows (*Melospiza melodia*) in North America [@burtt2004], North American Barn Owls (*Tyto alba pratincola*) [@Roulin2015], Hawaii Elepaios (*Chasiempis sandwichensis*) [@Vanderwerf2012], Oahu Elepaios (*C. ibidis*) (in the same study by @Vanderwerf2012), and ...<!--more!!-->. Gloger's rule has also been documented within mammal species. E.g. house mice (*Mus musculus*) in Asia [@Lai2008]<!--more!!-->.<!--Insect + more examples!!--> Notably, extending the generality of the rule [@Koski2015], the plant species *Argentina anserina* has been found to follow the rule in its floral pigmentation (in ultraviolet wavelengths) [@Koski2015], having stronger "bullseye" markings when occuring nearer the equator.
 
