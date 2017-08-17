@@ -97,11 +97,7 @@ The scale and levels of organisation at which Gloger's rule is an important cons
 
 ## Gloger's rule---evidence & explanations
 
-<!--Does the pattern exist? Is it observed in the first place? Dissect the observations at the intrasp., intersp., and assemblage levels-->
-
-<!--What could be causing this pattern, and why? Does it depend on the organism?-->
-
-How ubiquitous is Gloger's rule? I will now discuss empirical evidence for the rule, or patterns similar to it, for three major groups of organism: endothermic animals, ectothermic animals, and plants (Table 1). I will then discuss these cases with regard to the level of biological organisation at which they were observed (Table 1).
+How ubiquitous is Gloger's rule? Does the pattern exist? I will now discuss empirical evidence for the rule, or patterns similar to it, for three major groups of organism: endothermic animals, ectothermic animals, and plants (Table 1). I will then discuss these cases with regard to the level of biological organisation at which they were observed: intraspecific comparisons, interspecific comparisons, and assemblage comparisons (Table 1).
 
 <!--
 - Connect evidence above to mechanisms described in their respective papers (if applicable)
