@@ -1,17 +1,18 @@
 ---
 title: "Exploring Gloger’s ecogeographic rule"
 subtitle: "Why organisms are darker in wetter & warmer environments"
+author: |
+  | Ruan van Mazijk
+  | <VMZRUA001@myuct.ac.za>
 output:
+  html_document: default
   pdf_document:
     latex_engine: xelatex
     fig_caption: false
-fontsize: 11pt
-geometry: margin = 0.5in, a4paper
-mainfont: Calibri
-csl: harvard-university-of-cape-town-rvm_2017-08-15.csl  # comma-less in-text refs
-bibliography: Hons_theory_essay.bib
+mainfont: Helvetica
+csl: harvard-university-of-cape-town-rvm_2017-08-15.csl 
+bibliography: refs.bib
 header-includes:
-  - \usepackage{lipsum}
   # Institutional logos as a wrapping figure
   - \usepackage{wrapfig}
   # References section hanging indentation
@@ -24,26 +25,18 @@ header-includes:
   - \twocolumn
 ---
 
-\begin{wrapfigure}{l}{15pt}  % this figure will be at the left
-    \par \includegraphics[width=1.25cm, height=1.25cm]{uct_logo.png}
-    \par \includegraphics[width=1.25cm, height=1.25cm]{biosci_logo_crop.png}
-\end{wrapfigure}
+BSc Hons Biological Sciences
 
-\par \noindent \textbf{R. van Mazijk}
-\par \noindent VMZRUA001@myuct.ac.za
-\par \hfill
+Critical theory essay
 
-\footnotesize
-\par \noindent `r format(Sys.time(), "%Y-%m-%d")`
-\par \noindent BSc Hons Biological Sciences
-\par \noindent Critical theory essay
-\par \noindent For Dr A. Amar & Dr P. Sumasgutner
-\par \hfill
+For Dr A. Amar & Dr P. Sumasgutner
 
-\par \noindent \hrulefill
-\par \hfill
+```{r, echo=FALSE, out.width="50pt"}
+knitr::include_graphics(here::here("logos/UCT.png"))
+knitr::include_graphics(here::here("logos/BioSci.png"))
+```
 
-\normalsize
+***
 
 <!--
 
@@ -73,7 +66,6 @@ header-includes:
 
 Herein, I discuss the treatment of ecogeographic rules in ecological and evolutionary science, and within this context discuss the degree to which Gloger's rule is a genuine pattern in nature. I discuss insights into possible mechanisms that generate the Gloger's rule pattern, and how these vary between taxa, and across levels of biological organisation. I argue that there is sufficient evidence to support Gloger's rule as a useful and true generalisation.
 
-
 <!--Then ya tell 'em,-->
 
 ## Ecogeographic & biogeographic "rules"
@@ -88,7 +80,6 @@ It is important to consider what is meant by the term "rule" in biology. There a
 
 The level of organisation at which Gloger's rule is observed is an important consideration when discussing evidence for the rule, as it changes the suite of possible mechanisms one can attribute to the pattern. For example, mechanisms driving differences in average pigmentation in assemblages of species are likely not to apply to differences between morphs of a single species. Note, Gloger's rule does not appear to concern ontogenetic colour change ---that is, colour change within the development and lifespan of an individual organism [@Booth1990]. This is because the primary aim of Gloger's rule is to demonstrate trends in the evolutionary and ecological significance of the environment to organismal colour, assuming organismal colour is relatively fixed through out an organism's lifespan.
 
-
 ## Gloger's rule---evidence & explanations
 
 How ubiquitous is Gloger's rule? I will now discuss empirical evidence and mechanisms for the rule, or patterns similar to it, for three major groups of terrestrial biota: endothermic animals, ectothermic animals, and plants, though the majority of studies concerning Gloger's rule appear to concern birds and mammals. I will then discuss these mechanisms with regards to the level of biological organisation at which they were observed.
@@ -97,11 +88,7 @@ How ubiquitous is Gloger's rule? I will now discuss empirical evidence and mecha
 
 As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too). Gloger noted bird plumage was darker in warmer, more humid areas than the plumage of conspecific birds in more arid areas [@Miksch2015; @burtt2004]. @Roulin2015 describe the logic of Gloger’s rule lucidly:
 
-\footnotesize
-
-> \textit{The rule is based on the assumption that melanin pigments and/or dark coloration confer selective advantages in warm and humid regions.}
-
-\normalsize
+> *The rule is based on the assumption that melanin pigments and/or dark coloration confer selective advantages in warm and humid regions.*
 
 \noindent They investigate animal fitness in warm, humid environments as conferred via alternative phenotypic adaptations (viz. in owls, see below). The implication of *fitness* in a given habitat allows one to see the *evolutionary* aspect to Gloger's *eco*geographic rule (a sentiment @Lomolino2006 highlights). Colouration is indeed an important aspect to animal evolution. In mammals, predator-prey interactions (e.g. concealment), communication, and ecophysiology drive body and hair colour [@Caro2013; @Caro2005]. It is easy to see how these same properties drive avian plumage evolution, as animal colour is often an evolutionarily labile trait-suite [@Friedman2017].
 
@@ -149,28 +136,21 @@ Distinguishing between whether organismal pigmentation following the Gloger's ru
 
 @mayr<!--fix this ref!!--> seems to say that ecogeographic rules only operate within species. There has been evidence to the contrary [e.g. @Bishop2016]. Note, there are more exceptions to these rules at higher levels of organisations (such as assemblages), as the systems become necessarily more complex. That is not to say that there are no exceptions at instraspecific levels either (e.g. the inapplicability of Gloger's rule to rare melanistic coyotes in Florida, U.S.A [@Caudill2015]), but as @mayr suggests:
 
-\footnotesize
-
-> \textit{The fact that "cold climates do not produce a fauna tending towards large-sized globular forms with small protruding parts" (Scholander, 1955) is not in the least in conflict with Bergmann's or Allen's rule.}
-
-\normalsize
+> *The fact that "cold climates do not produce a fauna tending towards large-sized globular forms with small protruding parts" (Scholander, 1955) is not in the least in conflict with Bergmann's or Allen's rule.*
 
 \noindent In other words, ecogeographic rules have been treated as having more predictive power *within* species, not between. But, this should not preclude these ecogeographic patterns from being manifest at higher levels of organisation too---even if the original rule was describing instraspecific patterns.
 
 Regarding higher levels of organisation, it is worth noting the welcome and impressive amount of phylogenetic context applied to many of the assemblage-level cases discussed here [@Pinkert2016; @Bishop2016; @Friedman2017; @Kamilar2011; @Santana2012]. These evolutionary perspectives are important, as they allow us to distinguish ecogeographic patterns from those produced by the relatedness of biota alone [@CavenderBares2009]. This is important, as @Friedman2017 points out, because animal colour is often an evolutionarily labile---but one must verify that this is the case. A good example of this is coccolithophore pigmentation [@VanLenning2004], which is largely historically determined. Here, ecogeographic rules are not needed to explain the pattern.
 
+<!--And then ya tell 'em what ya told 'em-->
 
 ## Concluding remarks
 
-<!--And then ya tell 'em what ya told 'em-->
-
 @Millien2006 discuss intraspecific variation in the context of global climate change. Traits can vary with geography, as we have seen. Accordingly, so too can they with anthropogenic modifications of geography and climate. Identified are ways in which ecogeographic rules could be an invaluable tool in predicting the effects of climate change on biota. Indeed, @Roulin2014 recapitulates this mechanistically, in that melanisation may likely represent a key aspect in organismal success under climate change (due to its radiation protection role). These important applied aspect, and the basic research motivation to study ecogeographic patterns themselevs, are founded in the reality of such patterns. Here, I have discussed reasonable evidence of Gloger's rule in multiple taxa, and across various scales of biological organisation. Consequently, complexities to the rule do emerge. Gloger's rule varies in importance and strength between taxa, and interacts with other ecogeographic patterns. Historical and phylogenetic community [@CavenderBares2009] contexts to ecogeographic studies represent a wealth of research opportunity, especially in regard to Gloger's rule.
-
-
 
 \hfill
 
-\noindent \hrulefill
+***
 
 ## \small References
 \footnotesize \hangparas{15pt}{1}

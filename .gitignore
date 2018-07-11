@@ -1,6 +1,5 @@
 .Rproj.user
-.Rhistory
 .RData
 .Ruserdata
-.DS_Store
-theory_essay.pdf
+*.DS_Store
+*.Rhistory
