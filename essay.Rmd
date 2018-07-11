@@ -1,18 +1,24 @@
 ---
 title: "Exploring Gloger’s ecogeographic rule"
-subtitle: "Why organisms are darker in wetter & warmer environments"
+subtitle: |
+  | Why organisms are darker in wetter & warmer environments"
+author: |
+  | Ruan van Mazijk
+  | <VMZRUA001@myuct.ac.za>
+  |
+  | BSc Hons Biological Sciences
+  | Critical theory essay
+  | For Dr A. Amar & Dr P. Sumasgutner
 output:
-  pdf_document:
-    latex_engine: xelatex
-    fig_caption: false
-fontsize: 11pt
-geometry: margin = 0.5in, a4paper
-mainfont: Calibri
+  html_document: default
+  #pdf_document:
+  #  latex_engine: xelatex
+  #  fig_caption: false
+mainfont: Helvetica
 # comma-less in-text refs
 csl: harvard-university-of-cape-town-rvm_2017-08-15.csl 
 bibliography: refs.bib
 header-includes:
-  - \usepackage{lipsum}
   # Institutional logos as a wrapping figure
   - \usepackage{wrapfig}
   # References section hanging indentation
@@ -25,26 +31,12 @@ header-includes:
   - \twocolumn
 ---
 
-\begin{wrapfigure}{l}{15pt}  % this figure will be at the left
-    \par \includegraphics[width=1.25cm, height=1.25cm]{logos/UCT.png}
-    \par \includegraphics[width=1.25cm, height=1.25cm]{logos/BioSci.png}
-\end{wrapfigure}
+```{r, echo=FALSE}
+knitr::include_graphics(here::here("logos/UCT.png"))
+knitr::include_graphics(here::here("logos/BioSci.png"))
+```
 
-\par \noindent \textbf{R. van Mazijk}
-\par \noindent VMZRUA001@myuct.ac.za
-\par \hfill
-
-\footnotesize
-\par \noindent `r format(Sys.time(), "%Y-%m-%d")`
-\par \noindent BSc Hons Biological Sciences
-\par \noindent Critical theory essay
-\par \noindent For Dr A. Amar & Dr P. Sumasgutner
-\par \hfill
-
-\par \noindent \hrulefill
-\par \hfill
-
-\normalsize
+***
 
 <!--
 
@@ -96,11 +88,7 @@ How ubiquitous is Gloger's rule? I will now discuss empirical evidence and mecha
 
 As stated above, Gloger's rule stems from his observations of bird plumage darkness across climatic moisture gradients (and, by the simplest extension, pigementation in endothermic animals too). Gloger noted bird plumage was darker in warmer, more humid areas than the plumage of conspecific birds in more arid areas [@Miksch2015; @burtt2004]. @Roulin2015 describe the logic of Gloger’s rule lucidly:
 
-\footnotesize
-
-> \textit{The rule is based on the assumption that melanin pigments and/or dark coloration confer selective advantages in warm and humid regions.}
-
-\normalsize
+> *The rule is based on the assumption that melanin pigments and/or dark coloration confer selective advantages in warm and humid regions.*
 
 \noindent They investigate animal fitness in warm, humid environments as conferred via alternative phenotypic adaptations (viz. in owls, see below). The implication of *fitness* in a given habitat allows one to see the *evolutionary* aspect to Gloger's *eco*geographic rule (a sentiment @Lomolino2006 highlights). Colouration is indeed an important aspect to animal evolution. In mammals, predator-prey interactions (e.g. concealment), communication, and ecophysiology drive body and hair colour [@Caro2013; @Caro2005]. It is easy to see how these same properties drive avian plumage evolution, as animal colour is often an evolutionarily labile trait-suite [@Friedman2017].
 
@@ -148,11 +136,7 @@ Distinguishing between whether organismal pigmentation following the Gloger's ru
 
 @mayr<!--fix this ref!!--> seems to say that ecogeographic rules only operate within species. There has been evidence to the contrary [e.g. @Bishop2016]. Note, there are more exceptions to these rules at higher levels of organisations (such as assemblages), as the systems become necessarily more complex. That is not to say that there are no exceptions at instraspecific levels either (e.g. the inapplicability of Gloger's rule to rare melanistic coyotes in Florida, U.S.A [@Caudill2015]), but as @mayr suggests:
 
-\footnotesize
-
-> \textit{The fact that "cold climates do not produce a fauna tending towards large-sized globular forms with small protruding parts" (Scholander, 1955) is not in the least in conflict with Bergmann's or Allen's rule.}
-
-\normalsize
+> *The fact that "cold climates do not produce a fauna tending towards large-sized globular forms with small protruding parts" (Scholander, 1955) is not in the least in conflict with Bergmann's or Allen's rule.*
 
 \noindent In other words, ecogeographic rules have been treated as having more predictive power *within* species, not between. But, this should not preclude these ecogeographic patterns from being manifest at higher levels of organisation too---even if the original rule was describing instraspecific patterns.
 
@@ -166,7 +150,7 @@ Regarding higher levels of organisation, it is worth noting the welcome and impr
 
 \hfill
 
-\noindent \hrulefill
+***
 
 ## \small References
 \footnotesize \hangparas{15pt}{1}
