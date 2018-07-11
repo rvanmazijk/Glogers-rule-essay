@@ -1,21 +1,15 @@
 ---
 title: "Exploring Gloger’s ecogeographic rule"
-subtitle: |
-  | Why organisms are darker in wetter & warmer environments"
+subtitle: "Why organisms are darker in wetter & warmer environments"
 author: |
   | Ruan van Mazijk
   | <VMZRUA001@myuct.ac.za>
-  |
-  | BSc Hons Biological Sciences
-  | Critical theory essay
-  | For Dr A. Amar & Dr P. Sumasgutner
 output:
   html_document: default
-  #pdf_document:
-  #  latex_engine: xelatex
-  #  fig_caption: false
+  pdf_document:
+    latex_engine: xelatex
+    fig_caption: false
 mainfont: Helvetica
-# comma-less in-text refs
 csl: harvard-university-of-cape-town-rvm_2017-08-15.csl 
 bibliography: refs.bib
 header-includes:
@@ -31,7 +25,13 @@ header-includes:
   - \twocolumn
 ---
 
-```{r, echo=FALSE}
+BSc Hons Biological Sciences
+
+Critical theory essay
+
+For Dr A. Amar & Dr P. Sumasgutner
+
+```{r, echo=FALSE, out.width="50pt"}
 knitr::include_graphics(here::here("logos/UCT.png"))
 knitr::include_graphics(here::here("logos/BioSci.png"))
 ```
