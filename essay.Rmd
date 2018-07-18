@@ -12,8 +12,6 @@ mainfont: Helvetica
 csl: harvard-university-of-cape-town-rvm_2017-08-15.csl 
 bibliography: refs.bib
 header-includes:
-  # Institutional logos as a wrapping figure
-  - \usepackage{wrapfig}
   # References section hanging indentation
   - \usepackage{hanging}
   # Two-column formatting
